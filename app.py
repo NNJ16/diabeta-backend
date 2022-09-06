@@ -1,9 +1,6 @@
 from pickle import TRUE
 import pickle
 import numpy as np
-import pandas as pd
-from sklearn.metrics import accuracy_score
-from sklearn.preprocessing import StandardScaler
 from flask import Flask, request,render_template
 
 # Load the Random Forest CLassifier model
