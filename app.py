@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load the Random Forest CLassifier model
-prediabetes_model_filename = 'diabetes-prediction-logi-model.pkl'
+prediabetes_model_filename = 'diabetes-prediction-rfc-model.pkl'
 prediabetes_model = pickle.load(open(prediabetes_model_filename, 'rb'))
 
 app = Flask(__name__)
@@ -37,6 +37,8 @@ def predict_diabetes():
     data = np.array([data_array])
     prediction = prediabetes_model.predict(data)
     probability = prediabetes_model.predict_proba(data)
+    print(prediction)
+    print(probability)
 
     return str(json.dumps({"result": int(prediction[0]), "probability": float(probability[0][1])}))
 

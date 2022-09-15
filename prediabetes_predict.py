@@ -3,7 +3,7 @@ import pickle
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import  accuracy_score
-from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
 
 df=pd.read_csv('diabetes_data_upload.csv')
 
@@ -28,19 +28,19 @@ X_train = ss.fit_transform(X_train)
 X_test = ss.transform(X_test)
 
 # Creating Random Forest Model
-logi = LogisticRegression()
-logi.fit(X_train, y_train)
+rf = RandomForestClassifier(criterion='gini',n_estimators=100)
+rf.fit(X_train,y_train)
 
 #accuracy score on the training data
-t_prediction = logi.predict(X_train)
+t_prediction = rf.predict(X_train)
 t_accuracy = accuracy_score(t_prediction, y_train)
 print('Accuracy score of the training data: ', t_accuracy)
 
 #accuracy score on the training data
-prediction = logi.predict(X_test)
+prediction = rf.predict(X_test)
 accuracy = accuracy_score(y_test, prediction)
 print('Accuracy score of the test data: ', accuracy)
 
 # Creating a pickle file for the classifier
-filename = 'diabetes-prediction-logi-model.pkl'
-pickle.dump(logi, open(filename, 'wb'))
+filename = 'diabetes-prediction-rfc-model.pkl'
+pickle.dump(rf, open(filename, 'wb'))
