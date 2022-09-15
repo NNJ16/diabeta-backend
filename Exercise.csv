@@ -1,0 +1,1263 @@
+Exercise,Lifestyle,Category,Activity-level,Age_start,Age_end,Time-in-sec,Reps,Set,PreDiabetic,Diabetic,HBP,LBP,LThy,HThy
+OutDoor Walking,yoga,Cardio,Sedentary,18,35,3600,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Sedentary,36,49,3600,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Sedentary,50,80,3600,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Light Exercise,18,35,3600,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Light Exercise,36,49,3600,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Light Exercise,50,80,3600,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Moderate Exercise,18,35,3600,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Moderate Exercise,36,49,3600,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Moderate Exercise,50,80,3600,,1,1,1,1,1,1,1
+Jogging,yoga,Cardio,Moderate Exercise,18,35,3600,,1,1,0,0,1,1,1
+Jogging,yoga,Cardio,Moderate Exercise,36,49,3600,,1,1,0,0,1,1,1
+Jogging,yoga,Cardio,very active,18,35,3600,,1,1,0,0,1,1,1
+Jogging,yoga,Cardio,very active,36,49,3600,,1,1,0,0,1,1,1
+Jogging,yoga,Cardio,extreme,18,35,3600,,1,1,0,0,1,1,1
+Jogging,yoga,Cardio,extreme,36,49,3600,,1,1,0,0,1,1,1
+Cycling,yoga,Cardio,Moderate Exercise,18,35,1800,,1,1,0,0,1,1,1
+Cycling,yoga,Cardio,Moderate Exercise,36,49,1800,,1,1,0,0,1,1,1
+Cycling,yoga,Cardio,very active,18,35,1800,,1,1,0,0,1,1,1
+Cycling,yoga,Cardio,very active,36,49,1800,,1,1,0,0,1,1,1
+Cycling,yoga,Cardio,extreme,18,35,1800,,1,1,0,0,1,1,1
+Cycling,yoga,Cardio,extreme,36,49,1800,,1,1,0,0,1,1,1
+OutDoor Walking,gym,Cardio,Sedentary,18,35,3600,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Sedentary,36,49,3600,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Sedentary,50,80,3600,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Light Exercise,18,35,3600,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Light Exercise,36,49,3600,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Light Exercise,50,80,3600,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Moderate Exercise,18,35,3600,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Moderate Exercise,36,49,3600,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Moderate Exercise,50,80,3600,,1,1,1,1,1,1,1
+Jogging,gym,Cardio,Moderate Exercise,18,35,3600,,1,1,0,0,1,1,1
+Jogging,gym,Cardio,Moderate Exercise,36,49,3600,,1,1,0,0,1,1,1
+Jogging,gym,Cardio,very active,18,35,3600,,1,1,0,0,1,1,1
+Jogging,gym,Cardio,very active,36,49,3600,,1,1,0,0,1,1,1
+Jogging,gym,Cardio,extreme,18,35,3600,,1,1,0,0,1,1,1
+Jogging,gym,Cardio,extreme,36,49,3600,,1,1,0,0,1,1,1
+Cycling,gym,Cardio,Moderate Exercise,18,35,1800,,1,1,0,0,1,1,1
+Cycling,gym,Cardio,Moderate Exercise,36,49,1800,,1,1,0,0,1,1,1
+Cycling,gym,Cardio,very active,18,35,1800,,1,1,0,0,1,1,1
+Cycling,gym,Cardio,very active,36,49,1800,,1,1,0,0,1,1,1
+Cycling,gym,Cardio,extreme,18,35,1800,,1,1,0,0,1,1,1
+Cycling,gym,Cardio,extreme,36,49,1800,,1,1,0,0,1,1,1
+Treadmill,gym,Cardio,Sedentary,18,35,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Sedentary,36,49,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Sedentary,50,80,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Light Exercise,18,35,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Light Exercise,36,49,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Light Exercise,50,80,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Moderate Exercise,18,35,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Moderate Exercise,36,49,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Moderate Exercise,50,80,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,very active,18,35,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,very active,36,49,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,very active,50,80,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,extreme,18,35,1800,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,extreme,36,49,1800,,1,1,1,1,1,1,1
+Jumping Ropes,gym,Cardio,Moderate Exercise,18,35,,50,2,1,0,0,1,1,1
+Jumping Ropes,gym,Cardio,Moderate Exercise,36,49,,50,2,1,0,0,1,1,1
+Jumping Ropes,gym,Cardio,very active,18,35,,50,2,1,0,0,1,1,1
+Jumping Ropes,gym,Cardio,very active,36,49,,50,2,1,0,0,1,1,1
+Jumping Ropes,gym,Cardio,extreme,18,35,,50,2,1,0,0,1,1,1
+Jumping Ropes,gym,Cardio,extreme,36,49,,50,2,1,0,0,1,1,1
+Jumping Jacks,gym,Cardio,Light Exercise,18,35,,15,3,1,1,1,1,1,1
+Jumping Jacks,gym,Cardio,Light Exercise,36,49,,15,3,1,1,1,1,1,1
+Jumping Jacks,gym,Cardio,Moderate Exercise,18,35,,15,3,1,1,1,1,1,1
+Jumping Jacks,gym,Cardio,Moderate Exercise,36,49,,15,3,1,1,1,1,1,1
+Jumping Jacks,gym,Cardio,very active,18,35,,15,3,1,1,1,1,1,1
+Jumping Jacks,gym,Cardio,very active,36,49,,15,3,1,1,1,1,1,1
+Jumping Jacks,gym,Cardio,extreme,18,35,,15,3,1,1,1,1,1,1
+Burpies,gym,Cardio,very active,18,35,,0,5,1,0,0,1,1,1
+Burpies,gym,Cardio,very active,36,49,,0,5,1,0,0,1,1,1
+Burpies,gym,Cardio,extreme,18,35,,0,5,1,0,0,1,1,1
+Burpies,gym,Cardio,extreme,36,49,,0,5,1,0,0,1,1,1
+Skaters,gym,Cardio,Sedentary,18,35,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,Sedentary,36,49,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,Sedentary,50,80,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,Light Exercise,18,35,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,Light Exercise,36,49,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,Light Exercise,50,80,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,Moderate Exercise,18,35,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,Moderate Exercise,36,49,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,Moderate Exercise,50,80,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,very active,18,35,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,very active,36,49,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,very active,50,80,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,extreme,18,35,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,extreme,36,49,,12,3,1,1,1,1,1,1
+Skaters,gym,Cardio,extreme,50,80,,12,3,1,1,1,1,1,1
+Bench Runners,gym,Cardio,Moderate Exercise,18,35,,10,3,1,1,1,1,1,1
+Bench Runners,gym,Cardio,Moderate Exercise,36,49,,10,3,1,1,1,1,1,1
+Bench Runners,gym,Cardio,very active,18,35,,10,3,1,1,1,1,1,1
+Bench Runners,gym,Cardio,very active,36,49,,10,3,1,1,1,1,1,1
+Bench Runners,gym,Cardio,extreme,18,35,,10,3,1,1,1,1,1,1
+Bench Runners,gym,Cardio,extreme,36,49,,10,3,1,1,1,1,1,1
+Split Jumps,gym,Cardio,Moderate Exercise,18,35,,7,2,1,0,0,1,1,1
+Split Jumps,gym,Cardio,Moderate Exercise,36,49,,7,2,1,0,0,1,1,1
+Split Jumps,gym,Cardio,very active,18,35,,7,2,1,0,0,1,1,1
+Split Jumps,gym,Cardio,very active,36,49,,7,2,1,0,0,1,1,1
+Split Jumps,gym,Cardio,extreme,18,35,,7,2,1,0,0,1,1,1
+Split Jumps,gym,Cardio,extreme,36,49,,7,2,1,0,0,1,1,1
+Step up,gym,Cardio,Sedentary,18,35,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,Sedentary,36,49,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,Sedentary,50,80,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,Light Exercise,18,35,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,Light Exercise,36,49,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,Light Exercise,50,80,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,Moderate Exercise,18,35,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,Moderate Exercise,36,49,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,Moderate Exercise,50,80,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,very active,18,35,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,very active,36,49,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,very active,50,80,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,extreme,18,35,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,extreme,36,49,,25,2,1,1,1,1,1,1
+Step up,gym,Cardio,extreme,50,80,,25,2,1,1,1,1,1,1
+Calf Raise,gym,legs+abs,Moderate Exercise,18,35,,20,4,1,1,1,1,1,1
+Calf Raise,gym,legs+abs,Moderate Exercise,36,49,,20,4,1,1,1,1,1,1
+Calf Raise,gym,legs+abs,Moderate Exercise,50,80,,20,4,1,1,1,1,1,1
+Calf Raise,gym,legs+abs,very active,18,35,,20,4,1,1,1,1,1,1
+Calf Raise,gym,legs+abs,very active,36,49,,20,4,1,1,1,1,1,1
+Calf Raise,gym,legs+abs,very active,50,80,,20,4,1,1,1,1,1,1
+Calf Raise,gym,legs+abs,extreme,18,35,,20,4,1,1,1,1,1,1
+Calf Raise,gym,legs+abs,extreme,36,49,,20,4,1,1,1,1,1,1
+Calf Raise,gym,legs+abs,extreme,50,80,,20,4,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,Sedentary,18,35,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,Sedentary,36,49,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,Sedentary,50,80,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,Light Exercise,18,35,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,Light Exercise,36,49,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,Light Exercise,50,80,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,Moderate Exercise,18,35,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,Moderate Exercise,36,49,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,Moderate Exercise,50,80,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,very active,18,35,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,very active,36,49,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,very active,50,80,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,extreme,18,35,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,extreme,36,49,,10,3,1,1,1,1,1,1
+Glute Bridge,gym,legs+abs,extreme,50,80,,10,3,1,1,1,1,1,1
+Single-Leg Glute Bridge,gym,legs+abs,Moderate Exercise,18,35,,10,3,1,0,0,1,0,0
+Single-Leg Glute Bridge,gym,legs+abs,Moderate Exercise,36,49,,10,3,1,0,0,1,0,0
+Single-Leg Glute Bridge,gym,legs+abs,Moderate Exercise,50,80,,10,3,1,0,0,1,0,0
+Single-Leg Glute Bridge,gym,legs+abs,very active,18,35,,10,3,1,0,0,1,0,0
+Single-Leg Glute Bridge,gym,legs+abs,very active,36,49,,10,3,1,0,0,1,0,0
+Single-Leg Glute Bridge,gym,legs+abs,very active,50,80,,10,3,1,0,0,1,0,0
+Single-Leg Glute Bridge,gym,legs+abs,extreme,18,35,,10,3,1,0,0,1,0,0
+Single-Leg Glute Bridge,gym,legs+abs,extreme,36,49,,10,3,1,0,0,1,0,0
+Single-Leg Glute Bridge,gym,legs+abs,extreme,50,80,,10,3,1,0,0,1,0,0
+Leg Raise,gym,legs+abs,Light Exercise,18,35,,12,3,1,1,0,1,1,1
+Leg Raise,gym,legs+abs,Light Exercise,36,49,,12,3,1,1,0,1,1,1
+Leg Raise,gym,legs+abs,Light Exercise,50,80,,12,3,1,1,0,1,1,1
+Leg Raise,gym,legs+abs,Moderate Exercise,18,35,,12,3,1,1,0,1,1,1
+Leg Raise,gym,legs+abs,Moderate Exercise,36,49,,12,3,1,1,0,1,1,1
+Leg Raise,gym,legs+abs,Moderate Exercise,50,80,,12,3,1,1,0,1,1,1
+Leg Raise,gym,legs+abs,very active,18,35,,12,3,1,1,0,1,1,1
+Leg Raise,gym,legs+abs,very active,36,49,,12,3,1,1,0,1,1,1
+Leg Raise,gym,legs+abs,very active,50,80,,12,3,1,1,0,1,1,1
+Leg Raise,gym,legs+abs,extreme,18,35,,12,3,1,1,0,1,1,1
+Leg Raise,gym,legs+abs,extreme,36,49,,12,3,1,1,0,1,1,1
+Leg Raise,gym,legs+abs,extreme,50,80,,12,3,1,1,0,1,1,1
+Crunches,gym,legs+abs,Sedentary,18,35,,15,4,1,1,1,1,1,1
+Crunches,gym,legs+abs,Sedentary,36,49,,15,4,1,1,1,1,1,1
+Crunches,gym,legs+abs,Light Exercise,18,35,,15,4,1,1,1,1,1,1
+Crunches,gym,legs+abs,Light Exercise,36,49,,15,4,1,1,1,1,1,1
+Crunches,gym,legs+abs,very active,18,35,,15,4,1,1,1,1,1,1
+Crunches,gym,legs+abs,very active,36,49,,15,4,1,1,1,1,1,1
+Crunches,gym,legs+abs,extreme,18,35,,15,4,1,1,1,1,1,1
+Crunches,gym,legs+abs,extreme,36,49,,15,4,1,1,1,1,1,1
+Plank,gym,legs+abs,Moderate Exercise,18,35,45,,2,1,0,1,1,1,1
+Plank,gym,legs+abs,Moderate Exercise,36,49,45,,2,1,0,1,1,1,1
+Plank,gym,legs+abs,very active,18,35,45,,2,1,0,1,1,1,1
+Plank,gym,legs+abs,very active,36,49,45,,2,1,0,1,1,1,1
+Plank,gym,legs+abs,extreme,18,35,45,,2,1,0,1,1,1,1
+Plank,gym,legs+abs,extreme,36,49,45,,2,1,0,1,1,1,1
+Side-To-Side Crunch,gym,legs+abs,Sedentary,18,35,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,Sedentary,36,49,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,Sedentary,50,80,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,Light Exercise,18,35,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,Light Exercise,36,49,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,Light Exercise,50,80,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,Moderate Exercise,18,35,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,Moderate Exercise,36,49,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,Moderate Exercise,50,80,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,very active,18,35,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,very active,36,49,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,very active,50,80,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,extreme,18,35,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,extreme,36,49,,12,3,1,0,0,0,0,1
+Side-To-Side Crunch,gym,legs+abs,extreme,50,80,,12,3,1,0,0,0,0,1
+Russian Twist,gym,legs+abs,Moderate Exercise,18,35,,10,3,1,1,0,1,1,1
+Russian Twist,gym,legs+abs,Moderate Exercise,36,49,,10,3,1,1,0,1,1,1
+Russian Twist,gym,legs+abs,very active,18,35,,10,3,1,1,0,1,1,1
+Russian Twist,gym,legs+abs,very active,36,49,,10,3,1,1,0,1,1,1
+Russian Twist,gym,legs+abs,extreme,18,35,,10,3,1,1,0,1,1,1
+Russian Twist,gym,legs+abs,extreme,36,49,,10,3,1,1,0,1,1,1
+Mountain Climbers,gym,legs+abs,Moderate Exercise,18,35,,10,2,1,1,1,1,1,1
+Mountain Climbers,gym,legs+abs,Moderate Exercise,36,49,,10,2,1,1,1,1,1,1
+Mountain Climbers,gym,legs+abs,very active,18,35,,10,2,1,1,1,1,1,1
+Mountain Climbers,gym,legs+abs,very active,36,49,,10,2,1,1,1,1,1,1
+Mountain Climbers,gym,legs+abs,extreme,18,35,,10,2,1,1,1,1,1,1
+Mountain Climbers,gym,legs+abs,extreme,36,49,,10,2,1,1,1,1,1,1
+Bicycle Crunch,gym,legs+abs,Moderate Exercise,18,35,,10,2,1,0,0,1,1,1
+Bicycle Crunch,gym,legs+abs,very active,18,35,,10,2,1,0,0,1,1,1
+Bicycle Crunch,gym,legs+abs,extreme,18,35,,10,2,1,0,0,1,1,1
+Pushup,gym,Upper,Sedentary,18,35,,8,2,1,1,0,1,1,1
+Pushup,gym,Upper,Sedentary,36,49,,8,2,1,1,0,1,1,1
+Pushup,gym,Upper,Light Exercise,18,35,,8,2,1,1,0,1,1,1
+Pushup,gym,Upper,Light Exercise,36,49,,8,2,1,1,0,1,1,1
+Pushup,gym,Upper,Moderate Exercise,18,35,,8,2,1,1,0,1,1,1
+Pushup,gym,Upper,Moderate Exercise,36,49,,8,2,1,1,0,1,1,1
+Pushup,gym,Upper,very active,18,35,,8,2,1,1,0,1,1,1
+Pushup,gym,Upper,very active,36,49,,8,2,1,1,0,1,1,1
+Pushup,gym,Upper,extreme,18,35,,8,2,1,1,0,1,1,1
+Pushup,gym,Upper,extreme,36,49,,8,2,1,1,0,1,1,1
+Wall Push-ups,gym,Upper,Sedentary,18,35,,12,2,1,1,1,1,1,1
+Wall Push-ups,gym,Upper,Sedentary,36,49,,12,2,1,1,1,1,1,1
+Wall Push-ups,gym,Upper,Sedentary,50,80,,12,2,1,1,1,1,1,1
+Wall Push-ups,gym,Upper,Light Exercise,18,35,,12,2,1,1,1,1,1,1
+Wall Push-ups,gym,Upper,Light Exercise,36,49,,12,2,1,1,1,1,1,1
+Wall Push-ups,gym,Upper,Light Exercise,50,80,,12,2,1,1,1,1,1,1
+Incline Push-Up,gym,Upper,Sedentary,18,35,,10,2,1,1,1,1,1,1
+Incline Push-Up,gym,Upper,Sedentary,36,49,,10,2,1,1,1,1,1,1
+Incline Push-Up,gym,Upper,Sedentary,50,80,,10,2,1,1,1,1,1,1
+Incline Push-Up,gym,Upper,Light Exercise,18,35,,10,2,1,1,1,1,1,1
+Incline Push-Up,gym,Upper,Light Exercise,36,49,,10,2,1,1,1,1,1,1
+Incline Push-Up,gym,Upper,Light Exercise,50,80,,10,2,1,1,1,1,1,1
+Decline Push-ups,gym,Upper,extreme,18,35,,12,2,1,0,0,1,0,0
+Pushup on Knees,gym,Upper,Sedentary,18,35,,15,3,1,1,1,1,1,1
+Pushup on Knees,gym,Upper,Sedentary,36,49,,15,3,1,1,1,1,1,1
+Pushup on Knees,gym,Upper,Sedentary,50,80,,15,3,1,1,1,1,1,1
+Pushup on Knees,gym,Upper,Light Exercise,18,35,,15,3,1,1,1,1,1,1
+Pushup on Knees,gym,Upper,Light Exercise,36,49,,15,3,1,1,1,1,1,1
+Pushup on Knees,gym,Upper,Light Exercise,50,80,,15,3,1,1,1,1,1,1
+Pullup/Chinup,gym,Upper,very active,18,35,,8,2,1,0,0,1,0,0
+Pullup/Chinup,gym,Upper,extreme,18,35,,8,2,1,0,0,1,0,0
+Lat Pull Down,gym,Upper,Sedentary,18,35,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,Sedentary,36,49,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,Sedentary,50,80,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,Light Exercise,18,35,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,Light Exercise,36,49,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,Light Exercise,50,80,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,Moderate Exercise,18,35,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,Moderate Exercise,36,49,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,Moderate Exercise,50,80,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,very active,18,35,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,very active,36,49,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,very active,50,80,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,extreme,18,35,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,extreme,36,49,,12,3,1,1,1,1,1,1
+Lat Pull Down,gym,Upper,extreme,50,80,,12,3,1,1,1,1,1,1
+Seated Dumbbell Overhead press,gym,Upper,Moderate Exercise,18,35,,12,4,1,1,1,1,1,1
+Seated Dumbbell Overhead press,gym,Upper,Moderate Exercise,36,49,,12,4,1,1,1,1,1,1
+Seated Dumbbell Overhead press,gym,Upper,very active,18,35,,12,4,1,1,1,1,1,1
+Seated Dumbbell Overhead press,gym,Upper,very active,36,49,,12,4,1,1,1,1,1,1
+Seated Dumbbell Overhead press,gym,Upper,extreme,18,35,,12,4,1,1,1,1,1,1
+Seated Dumbbell Overhead press,gym,Upper,extreme,36,49,,12,4,1,1,1,1,1,1
+Hammer-grip dumbbell bench press,gym,Upper,very active,18,35,,12,3,1,0,0,1,1,1
+Hammer-grip dumbbell bench press,gym,Upper,very active,36,49,,12,3,1,0,0,1,1,1
+Hammer-grip dumbbell bench press,gym,Upper,extreme,18,35,,12,3,1,0,0,1,1,1
+Hammer-grip dumbbell bench press,gym,Upper,extreme,36,49,,12,3,1,0,0,1,1,1
+Barbell Bench Press,gym,Upper,very active,18,35,,10,3,1,0,1,1,1,1
+Barbell Bench Press,gym,Upper,extreme,18,35,,10,3,1,0,1,1,1,1
+Dumbbells Lateral Raise,gym,Upper,Moderate Exercise,18,35,,10,3,1,1,1,1,1,1
+Dumbbells Lateral Raise,gym,Upper,Moderate Exercise,36,49,,10,3,1,1,1,1,1,1
+Dumbbells Lateral Raise,gym,Upper,very active,18,35,,10,3,1,1,1,1,1,1
+Dumbbells Lateral Raise,gym,Upper,very active,36,49,,10,3,1,1,1,1,1,1
+Dumbbells Lateral Raise,gym,Upper,extreme,18,35,,10,3,1,1,1,1,1,1
+Dumbbells Lateral Raise,gym,Upper,extreme,36,49,,10,3,1,1,1,1,1,1
+Bent Over Lateral Raise,gym,Upper,extreme,18,35,,10,3,1,1,0,1,0,0
+Dumbbell front raise,gym,Upper,Light Exercise,36,49,,15,3,1,1,0,1,1,1
+Dumbbell front raise,gym,Upper,Light Exercise,18,35,,15,3,1,1,0,1,1,1
+Dumbbell front raise,gym,Upper,Moderate Exercise,36,49,,15,3,1,1,0,1,1,1
+Dumbbell front raise,gym,Upper,Moderate Exercise,18,35,,15,3,1,1,0,1,1,1
+Dumbbell front raise,gym,Upper,very active,36,49,,15,3,1,1,0,1,1,1
+Dumbbell front raise,gym,Upper,very active,18,35,,15,3,1,1,0,1,1,1
+Dumbbell front raise,gym,Upper,extreme,36,49,,15,3,1,1,0,1,1,1
+Dumbbell front raise,gym,Upper,extreme,18,35,,15,3,1,1,0,1,1,1
+Bent Over Front Raise,gym,Upper,very active,36,49,,12,3,1,0,0,1,0,0
+Bent Over Front Raise,gym,Upper,extreme,18,35,,12,3,1,0,0,1,0,0
+45 Degree Bench Chest press,gym,Upper,very active,18,35,,12,3,1,1,0,1,1,1
+45 Degree Bench Chest press,gym,Upper,extreme,18,35,,12,3,1,1,0,1,1,1
+Seated Dumbbell Fly,gym,Upper,Moderate Exercise,18,35,,12,3,1,1,1,1,1,1
+Seated Dumbbell Fly,gym,Upper,Moderate Exercise,36,49,,12,3,1,1,1,1,1,1
+Seated Dumbbell Fly,gym,Upper,very active,18,35,,12,3,1,1,1,1,1,1
+Seated Dumbbell Fly,gym,Upper,very active,36,49,,12,3,1,1,1,1,1,1
+Seated Dumbbell Fly,gym,Upper,extreme,18,35,,12,3,1,1,1,1,1,1
+Seated Dumbbell Fly,gym,Upper,extreme,36,49,,12,3,1,1,1,1,1,1
+Dumbbels Triceps Extension,gym,Upper,Light Exercise,18,35,,15,3,1,1,0,1,0,0
+Dumbbels Triceps Extension,gym,Upper,Light Exercise,36,49,,15,3,1,1,0,1,0,0
+Dumbbels Triceps Extension,gym,Upper,Light Exercise,50,80,,15,3,1,1,0,1,0,0
+Dumbbels Triceps Extension,gym,Upper,Moderate Exercise,18,35,,15,3,1,1,0,1,0,0
+Dumbbels Triceps Extension,gym,Upper,Moderate Exercise,36,49,,15,3,1,1,0,1,0,0
+Dumbbels Triceps Extension,gym,Upper,Moderate Exercise,50,80,,15,3,1,1,0,1,0,0
+Dumbbels Triceps Extension,gym,Upper,very active,18,35,,15,3,1,1,0,1,0,0
+Dumbbels Triceps Extension,gym,Upper,very active,36,49,,15,3,1,1,0,1,0,0
+Dumbbels Triceps Extension,gym,Upper,very active,50,80,,15,3,1,1,0,1,0,0
+Dumbbels Triceps Extension,gym,Upper,extreme,18,35,,15,3,1,1,0,1,0,0
+Dumbbels Triceps Extension,gym,Upper,extreme,36,49,,15,3,1,1,0,1,0,0
+Dumbbels Triceps Extension,gym,Upper,extreme,50,80,,15,3,1,1,0,1,0,0
+Cable Triceps press down,gym,Upper,Sedentary,18,35,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,Sedentary,36,49,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,Sedentary,50,80,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,Light Exercise,18,35,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,Light Exercise,36,49,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,Light Exercise,50,80,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,Moderate Exercise,18,35,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,Moderate Exercise,36,49,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,Moderate Exercise,50,80,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,very active,18,35,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,very active,36,49,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,very active,50,80,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,extreme,18,35,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,extreme,36,49,,15,4,1,1,1,1,1,1
+Cable Triceps press down,gym,Upper,extreme,50,80,,15,4,1,1,1,1,1,1
+Triceps kickback,gym,Upper,Moderate Exercise,18,35,,12,4,1,0,0,1,1,1
+Triceps kickback,gym,Upper,Moderate Exercise,36,49,,12,4,1,0,0,1,1,1
+Triceps kickback,gym,Upper,very active,18,35,,12,4,1,0,0,1,1,1
+Triceps kickback,gym,Upper,very active,36,49,,12,4,1,0,0,1,1,1
+Triceps kickback,gym,Upper,extreme,18,35,,12,4,1,0,0,1,1,1
+Triceps kickback,gym,Upper,extreme,36,49,,12,4,1,0,0,1,1,1
+Shoulder Shrugs,gym,Upper,Sedentary,18,35,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,Sedentary,36,49,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,Sedentary,50,80,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,Light Exercise,18,35,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,Light Exercise,36,49,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,Light Exercise,50,80,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,Moderate Exercise,18,35,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,Moderate Exercise,36,49,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,Moderate Exercise,50,80,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,very active,18,35,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,very active,36,49,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,very active,50,80,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,extreme,18,35,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,extreme,36,49,,12,3,1,1,1,1,1,1
+Shoulder Shrugs,gym,Upper,extreme,50,80,,12,3,1,1,1,1,1,1
+Dumbbels biceps curl,gym,Upper,Moderate Exercise,18,35,,12,3,1,1,1,1,1,1
+Dumbbels biceps curl,gym,Upper,Moderate Exercise,36,49,,12,3,1,1,1,1,1,1
+Dumbbels biceps curl,gym,Upper,very active,18,35,,12,3,1,1,1,1,1,1
+Dumbbels biceps curl,gym,Upper,very active,36,49,,12,3,1,1,1,1,1,1
+Dumbbels biceps curl,gym,Upper,extreme,18,35,,12,3,1,1,1,1,1,1
+Dumbbels biceps curl,gym,Upper,extreme,36,49,,12,3,1,1,1,1,1,1
+Cable biceps curl,gym,Upper,Light Exercise,18,35,,12,4,1,0,0,1,0,0
+Cable biceps curl,gym,Upper,Light Exercise,36,49,,12,4,1,0,0,1,0,0
+Cable biceps curl,gym,Upper,Light Exercise,50,80,,12,4,1,0,0,1,0,0
+Cable biceps curl,gym,Upper,Moderate Exercise,18,35,,12,4,1,0,0,1,0,0
+Cable biceps curl,gym,Upper,Moderate Exercise,36,49,,12,4,1,0,0,1,0,0
+Cable biceps curl,gym,Upper,Moderate Exercise,50,80,,12,4,1,0,0,1,0,0
+Cable biceps curl,gym,Upper,very active,18,35,,12,4,1,0,0,1,0,0
+Cable biceps curl,gym,Upper,very active,36,49,,12,4,1,0,0,1,0,0
+Cable biceps curl,gym,Upper,very active,50,80,,12,4,1,0,0,1,0,0
+Cable biceps curl,gym,Upper,extreme,18,35,,12,4,1,0,0,1,0,0
+Cable biceps curl,gym,Upper,extreme,36,49,,12,4,1,0,0,1,0,0
+Cable biceps curl,gym,Upper,extreme,50,80,,12,4,1,0,0,1,0,0
+Upright Row,gym,Upper,extreme,18,35,,10,3,1,0,0,1,0,0
+Seated Cable Row,gym,Upper,Moderate Exercise,18,35,,10,4,1,1,0,1,1,1
+Seated Cable Row,gym,Upper,Moderate Exercise,36,49,,10,4,1,1,0,1,1,1
+Seated Cable Row,gym,Upper,very active,18,35,,10,4,1,1,0,1,1,1
+Seated Cable Row,gym,Upper,very active,36,49,,10,4,1,1,0,1,1,1
+Seated Cable Row,gym,Upper,extreme,18,35,,10,4,1,1,0,1,1,1
+Seated Cable Row,gym,Upper,extreme,36,49,,10,4,1,1,0,1,1,1
+Suryanamaskar,yoga,yoga_poses,Light Exercise,18,35,,,12,1,1,1,0,1,1
+Suryanamaskar,yoga,yoga_poses,Light Exercise,36,49,,,12,1,1,1,0,1,1
+Suryanamaskar,yoga,yoga_poses,Moderate Exercise,18,35,,,12,1,1,1,0,1,1
+Suryanamaskar,yoga,yoga_poses,Moderate Exercise,36,49,,,12,1,1,1,0,1,1
+Suryanamaskar,yoga,yoga_poses,very active,18,35,,,12,1,1,1,0,1,1
+Suryanamaskar,yoga,yoga_poses,very active,36,49,,,12,1,1,1,0,1,1
+Suryanamaskar,yoga,yoga_poses,extreme,18,35,,,12,1,1,1,0,1,1
+Suryanamaskar,yoga,yoga_poses,extreme,36,49,,,12,1,1,1,0,1,1
+Vrikshasana,yoga,yoga_poses,Sedentary,18,35,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,Sedentary,36,49,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,Sedentary,50,80,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,Light Exercise,18,35,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,Light Exercise,36,49,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,Light Exercise,50,80,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,Moderate Exercise,18,35,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,Moderate Exercise,36,49,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,Moderate Exercise,50,80,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,very active,18,35,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,very active,36,49,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,very active,50,80,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,extreme,18,35,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,extreme,36,49,15,,5,1,1,0,1,1,1
+Vrikshasana,yoga,yoga_poses,extreme,50,80,15,,5,1,1,0,1,1,1
+Virabhadrasana I,yoga,yoga_poses,Sedentary,18,35,20,,5,1,1,1,1,1,1
+Virabhadrasana I,yoga,yoga_poses,Sedentary,36,49,20,,5,1,1,1,1,1,1
+Virabhadrasana I,yoga,yoga_poses,Sedentary,50,80,20,,5,1,1,1,1,1,1
+Virabhadrasana I,yoga,yoga_poses,Light Exercise,18,35,20,,5,1,1,1,1,1,1
+Virabhadrasana II,yoga,yoga_poses,Light Exercise,36,49,20,,5,1,0,0,1,1,1
+Virabhadrasana II,yoga,yoga_poses,Light Exercise,50,80,20,,5,1,0,0,1,1,1
+Virabhadrasana II,yoga,yoga_poses,Moderate Exercise,18,35,20,,5,1,0,0,1,1,1
+Virabhadrasana II,yoga,yoga_poses,Moderate Exercise,36,49,20,,5,1,0,0,1,1,1
+Virabhadrasana II,yoga,yoga_poses,very active,18,35,20,,5,1,0,0,1,1,1
+Virabhadrasana II,yoga,yoga_poses,very active,36,49,20,,5,1,0,0,1,1,1
+Virabhadrasana III,yoga,yoga_poses,Moderate Exercise,18,35,20,,5,1,0,0,0,0,0
+Virabhadrasana III,yoga,yoga_poses,very active,18,35,20,,5,1,0,0,0,0,0
+Virabhadrasana III,yoga,yoga_poses,extreme,18,35,20,,5,1,0,0,0,0,0
+Viparita Virabhadrasana,yoga,yoga_poses,very active,18,35,15,,5,1,0,0,0,1,1
+Viparita Virabhadrasana,yoga,yoga_poses,extreme,18,35,15,,5,1,0,0,0,1,1
+Utkatasana,yoga,yoga_poses,Sedentary,18,35,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,Sedentary,36,49,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,Sedentary,50,80,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,Light Exercise,18,35,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,Light Exercise,36,49,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,Light Exercise,50,80,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,Moderate Exercise,18,35,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,Moderate Exercise,36,49,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,Moderate Exercise,50,80,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,very active,18,35,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,very active,36,49,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,very active,50,80,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,extreme,18,35,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,extreme,36,49,12,,3,1,1,0,1,1,1
+Utkatasana,yoga,yoga_poses,extreme,50,80,12,,3,1,1,0,1,1,1
+Uttanasana,yoga,yoga_poses,Light Exercise,18,35,10,,5,1,1,1,1,1,1
+Uttanasana,yoga,yoga_poses,Light Exercise,36,49,10,,5,1,1,1,1,1,1
+Uttanasana,yoga,yoga_poses,Moderate Exercise,18,35,10,,5,1,1,1,1,1,1
+Uttanasana,yoga,yoga_poses,Moderate Exercise,36,49,10,,5,1,1,1,1,1,1
+Uttanasana,yoga,yoga_poses,very active,18,35,10,,5,1,1,1,1,1,1
+Uttanasana,yoga,yoga_poses,very active,36,49,10,,5,1,1,1,1,1,1
+Uttanasana,yoga,yoga_poses,extreme,18,35,10,,5,1,1,1,1,1,1
+Uttanasana,yoga,yoga_poses,extreme,36,49,10,,5,1,1,1,1,1,1
+Trikonasana,yoga,yoga_poses,Moderate Exercise,18,35,10,,5,1,1,0,1,1,1
+Trikonasana,yoga,yoga_poses,Moderate Exercise,36,49,10,,5,1,1,0,1,1,1
+Trikonasana,yoga,yoga_poses,very active,18,35,10,,5,1,1,0,1,1,1
+Trikonasana,yoga,yoga_poses,very active,36,49,10,,5,1,1,0,1,1,1
+Trikonasana,yoga,yoga_poses,extreme,18,35,10,,5,1,1,0,1,1,1
+Trikonasana,yoga,yoga_poses,extreme,36,49,10,,5,1,1,0,1,1,1
+Shirshasana,yoga,yoga_poses,extreme,18,35,45,,1,1,0,0,0,0,0
+Sarvangasana,yoga,yoga_poses,very active,18,35,45,,2,1,0,0,0,1,1
+Sarvangasana,yoga,yoga_poses,very active,36,49,45,,2,1,0,0,0,1,1
+Sarvangasana,yoga,yoga_poses,extreme,18,35,45,,2,1,0,0,0,1,1
+Sarvangasana,yoga,yoga_poses,extreme,36,49,45,,2,1,0,0,0,1,1
+Navasana,yoga,yoga_poses,Moderate Exercise,18,35,30,,3,1,0,1,1,1,1
+Navasana,yoga,yoga_poses,Moderate Exercise,36,49,30,,3,1,0,1,1,1,1
+Navasana,yoga,yoga_poses,very active,18,35,30,,3,1,0,1,1,1,1
+Navasana,yoga,yoga_poses,very active,36,49,30,,3,1,0,1,1,1,1
+Navasana,yoga,yoga_poses,extreme,18,35,30,,3,1,0,1,1,1,1
+Navasana,yoga,yoga_poses,extreme,36,49,30,,3,1,0,1,1,1,1
+Parighasana,yoga,yoga_poses,Sedentary,18,35,30,,3,1,0,0,0,1,1
+Parighasana,yoga,yoga_poses,Sedentary,36,49,30,,3,1,0,0,0,1,1
+Parighasana,yoga,yoga_poses,Light Exercise,18,35,30,,3,1,0,0,0,1,1
+Parighasana,yoga,yoga_poses,Light Exercise,36,49,30,,3,1,0,0,0,1,1
+Parighasana,yoga,yoga_poses,Moderate Exercise,18,35,30,,3,1,0,0,0,1,1
+Parighasana,yoga,yoga_poses,Moderate Exercise,36,49,30,,3,1,0,0,0,1,1
+Parighasana,yoga,yoga_poses,very active,18,35,30,,3,1,0,0,0,1,1
+Parighasana,yoga,yoga_poses,very active,36,49,30,,3,1,0,0,0,1,1
+Parighasana,yoga,yoga_poses,extreme,18,35,30,,3,1,0,0,0,1,1
+Parighasana,yoga,yoga_poses,extreme,36,49,30,,3,1,0,0,0,1,1
+Natarajasana,yoga,yoga_poses,Moderate Exercise,18,35,15,,3,1,0,0,0,1,1
+Natarajasana,yoga,yoga_poses,Moderate Exercise,36,49,15,,3,1,0,0,0,1,1
+Natarajasana,yoga,yoga_poses,very active,18,35,15,,3,1,0,0,0,1,1
+Natarajasana,yoga,yoga_poses,very active,36,49,15,,3,1,0,0,0,1,1
+Natarajasana,yoga,yoga_poses,extreme,18,35,15,,3,1,0,0,0,1,1
+Natarajasana,yoga,yoga_poses,extreme,36,49,15,,3,1,0,0,0,1,1
+Matsyendrasana,yoga,yoga_poses,Light Exercise,18,35,15,,5,1,1,1,1,1,1
+Matsyendrasana,yoga,yoga_poses,Light Exercise,36,49,15,,5,1,1,1,1,1,1
+Matsyendrasana,yoga,yoga_poses,Light Exercise,50,80,15,,5,1,1,1,1,1,1
+Matsyendrasana,yoga,yoga_poses,Moderate Exercise,18,35,15,,5,1,1,1,1,1,1
+Matsyendrasana,yoga,yoga_poses,Moderate Exercise,36,49,15,,5,1,1,1,1,1,1
+Matsyendrasana,yoga,yoga_poses,Moderate Exercise,50,80,15,,5,1,1,1,1,1,1
+Matsyendrasana,yoga,yoga_poses,very active,18,35,15,,5,1,1,1,1,1,1
+Matsyendrasana,yoga,yoga_poses,very active,36,49,15,,5,1,1,1,1,1,1
+Matsyendrasana,yoga,yoga_poses,very active,50,80,15,,5,1,1,1,1,1,1
+Matsyendrasana,yoga,yoga_poses,extreme,18,35,15,,5,1,1,1,1,1,1
+Matsyendrasana,yoga,yoga_poses,extreme,36,49,15,,5,1,1,1,1,1,1
+Matsyendrasana,yoga,yoga_poses,extreme,50,80,15,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,Sedentary,18,35,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,Sedentary,36,49,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,Sedentary,50,80,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,Light Exercise,18,35,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,Light Exercise,36,49,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,Light Exercise,50,80,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,Moderate Exercise,18,35,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,Moderate Exercise,36,49,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,Moderate Exercise,50,80,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,very active,18,35,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,very active,36,49,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,very active,50,80,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,extreme,18,35,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,extreme,36,49,20,,5,1,1,1,1,1,1
+Gomukhasana,yoga,yoga_poses,extreme,50,80,20,,5,1,1,1,1,1,1
+Garudasana,yoga,yoga_poses,very active,18,35,15,,3,1,0,0,1,1,1
+Garudasana,yoga,yoga_poses,very active,36,49,15,,3,1,0,0,1,1,1
+Garudasana,yoga,yoga_poses,extreme,18,35,15,,3,1,0,0,1,1,1
+Garudasana,yoga,yoga_poses,extreme,36,49,15,,3,1,0,0,1,1,1
+Cat-Cow,yoga,yoga_poses,Sedentary,18,35,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,Sedentary,36,49,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,Sedentary,50,80,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,Light Exercise,18,35,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,Light Exercise,36,49,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,Light Exercise,50,80,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,Moderate Exercise,18,35,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,Moderate Exercise,36,49,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,Moderate Exercise,50,80,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,very active,18,35,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,very active,36,49,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,very active,50,80,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,extreme,18,35,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,extreme,36,49,8,,5,1,1,1,1,1,1
+Cat-Cow,yoga,yoga_poses,extreme,50,80,8,,5,1,1,1,1,1,1
+Bhujangasana,yoga,yoga_poses,Sedentary,18,35,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,Sedentary,36,49,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,Sedentary,50,80,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,Light Exercise,18,35,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,Light Exercise,36,49,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,Light Exercise,50,80,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,Moderate Exercise,18,35,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,Moderate Exercise,36,49,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,Moderate Exercise,50,80,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,very active,18,35,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,very active,36,49,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,very active,50,80,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,extreme,18,35,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,extreme,36,49,10,,5,1,1,0,1,1,1
+Bhujangasana,yoga,yoga_poses,extreme,50,80,10,,5,1,1,0,1,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,Sedentary,18,35,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,Sedentary,36,49,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,Sedentary,50,80,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,Light Exercise,18,35,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,Light Exercise,36,49,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,Light Exercise,50,80,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,Moderate Exercise,18,35,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,Moderate Exercise,36,49,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,Moderate Exercise,50,80,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,very active,18,35,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,very active,36,49,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,very active,50,80,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,extreme,18,35,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,extreme,36,49,12,,5,1,0,0,0,1,1
+Adho Mukha Shvanasana,yoga,yoga_poses,extreme,50,80,12,,5,1,0,0,0,1,1
+Baddha Konasana,yoga,yoga_poses,Sedentary,18,35,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,Sedentary,36,49,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,Sedentary,50,80,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,Light Exercise,18,35,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,Light Exercise,36,49,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,Light Exercise,50,80,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,Moderate Exercise,18,35,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,Moderate Exercise,36,49,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,Moderate Exercise,50,80,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,very active,18,35,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,very active,36,49,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,very active,50,80,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,extreme,18,35,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,extreme,36,49,10,,10,1,1,1,1,1,1
+Baddha Konasana,yoga,yoga_poses,extreme,50,80,10,,10,1,1,1,1,1,1
+Makarasana,yoga,meditation,Sedentary,18,35,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,Sedentary,36,49,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,Sedentary,50,80,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,Light Exercise,18,35,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,Light Exercise,36,49,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,Light Exercise,50,80,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,Moderate Exercise,18,35,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,Moderate Exercise,36,49,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,Moderate Exercise,50,80,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,very active,18,35,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,very active,36,49,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,very active,50,80,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,extreme,18,35,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,extreme,36,49,300,,1,1,1,1,1,1,1
+Makarasana,yoga,meditation,extreme,50,80,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,Sedentary,18,35,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,Sedentary,36,49,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,Sedentary,50,80,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,Light Exercise,18,35,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,Light Exercise,36,49,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,Light Exercise,50,80,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,Moderate Exercise,18,35,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,Moderate Exercise,36,49,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,Moderate Exercise,50,80,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,very active,18,35,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,very active,36,49,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,very active,50,80,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,extreme,18,35,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,extreme,36,49,300,,1,1,1,1,1,1,1
+Padmasana,yoga,meditation,extreme,50,80,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,extreme,18,35,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,Sedentary,36,49,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,Sedentary,50,80,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,Sedentary,18,35,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,Light Exercise,36,49,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,Light Exercise,50,80,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,Light Exercise,18,35,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,Moderate Exercise,36,49,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,Moderate Exercise,50,80,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,Moderate Exercise,18,35,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,very active,36,49,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,very active,50,80,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,very active,18,35,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,extreme,36,49,300,,1,1,1,1,1,1,1
+Vajrasana,yoga,meditation,extreme,50,80,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,extreme,18,35,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,Sedentary,36,49,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,Sedentary,50,80,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,Sedentary,18,35,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,Light Exercise,36,49,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,Light Exercise,50,80,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,Light Exercise,18,35,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,Moderate Exercise,36,49,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,Moderate Exercise,50,80,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,Moderate Exercise,18,35,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,very active,36,49,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,very active,50,80,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,very active,18,35,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,extreme,36,49,300,,1,1,1,1,1,1,1
+Shavasana,yoga,meditation,extreme,50,80,300,,1,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,Sedentary,18,35,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,Sedentary,36,49,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,Sedentary,50,80,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,Light Exercise,18,35,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,Light Exercise,36,49,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,Light Exercise,50,80,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,Moderate Exercise,18,35,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,Moderate Exercise,36,49,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,Moderate Exercise,50,80,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,very active,18,35,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,very active,36,49,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,very active,50,80,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,extreme,18,35,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,extreme,36,49,,15,4,1,1,1,1,1,1
+Anulom Vilom Pranayama,yoga,meditation,extreme,50,80,,15,4,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,Sedentary,18,35,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,Sedentary,36,49,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,Sedentary,50,80,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,Light Exercise,18,35,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,Light Exercise,36,49,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,Light Exercise,50,80,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,Moderate Exercise,18,35,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,Moderate Exercise,36,49,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,Moderate Exercise,50,80,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,very active,18,35,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,very active,36,49,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,very active,50,80,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,extreme,18,35,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,extreme,36,49,,,10,1,1,1,1,1,1
+Bhramari Pranayama,yoga,meditation,extreme,50,80,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,Sedentary,18,35,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,Sedentary,36,49,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,Sedentary,50,80,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,Light Exercise,18,35,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,Light Exercise,36,49,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,Light Exercise,50,80,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,Moderate Exercise,18,35,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,Moderate Exercise,36,49,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,Moderate Exercise,50,80,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,very active,18,35,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,very active,36,49,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,very active,50,80,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,extreme,18,35,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,extreme,36,49,,,10,1,1,1,1,1,1
+Ujjayi Pranayama,yoga,meditation,extreme,50,80,,,10,1,1,1,1,1,1
+Kapalbharti Pranayama,yoga,meditation,Sedentary,18,35,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,Sedentary,36,49,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,Sedentary,50,80,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,Light Exercise,18,35,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,Light Exercise,36,49,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,Light Exercise,50,80,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,Moderate Exercise,18,35,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,Moderate Exercise,36,49,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,Moderate Exercise,50,80,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,very active,18,35,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,very active,36,49,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,very active,50,80,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,extreme,18,35,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,extreme,36,49,,15,5,1,1,0,1,1,1
+Kapalbharti Pranayama,yoga,meditation,extreme,50,80,,15,5,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,Sedentary,18,35,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,Sedentary,36,49,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,Sedentary,50,80,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,Light Exercise,18,35,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,Light Exercise,36,49,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,Light Exercise,50,80,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,Moderate Exercise,18,35,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,Moderate Exercise,36,49,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,Moderate Exercise,50,80,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,very active,18,35,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,very active,36,49,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,very active,50,80,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,extreme,18,35,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,extreme,36,49,,21,1,1,1,0,1,1,1
+Bhastrika Pranayama,yoga,meditation,extreme,50,80,,21,1,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,Sedentary,18,35,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,Sedentary,36,49,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,Sedentary,50,80,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,Light Exercise,18,35,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,Light Exercise,36,49,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,Light Exercise,50,80,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,Moderate Exercise,18,35,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,Moderate Exercise,36,49,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,Moderate Exercise,50,80,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,very active,18,35,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,very active,36,49,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,very active,50,80,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,extreme,18,35,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,extreme,36,49,,,8,1,1,0,1,1,1
+Surya/Chandra Bhedana Pranayama,yoga,meditation,extreme,50,80,,,8,1,1,0,1,1,1
+Quiet Breathing,yoga,meditation,Sedentary,18,35,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,Sedentary,36,49,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,Sedentary,50,80,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,Light Exercise,18,35,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,Light Exercise,36,49,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,Light Exercise,50,80,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,Moderate Exercise,18,35,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,Moderate Exercise,36,49,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,Moderate Exercise,50,80,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,very active,18,35,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,very active,36,49,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,very active,50,80,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,extreme,18,35,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,extreme,36,49,,,10,1,1,1,1,1,1
+Quiet Breathing,yoga,meditation,extreme,50,80,,,10,1,1,1,1,1,1
+Bird Dog,yoga,Stretching,Sedentary,18,35,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,Sedentary,36,49,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,Sedentary,50,80,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,Light Exercise,18,35,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,Light Exercise,36,49,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,Light Exercise,50,80,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,Moderate Exercise,18,35,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,Moderate Exercise,36,49,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,Moderate Exercise,50,80,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,very active,18,35,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,very active,36,49,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,very active,50,80,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,extreme,18,35,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,extreme,36,49,30,,4,1,0,0,1,1,1
+Bird Dog,yoga,Stretching,extreme,50,80,30,,4,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,Sedentary,18,35,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,Sedentary,36,49,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,Sedentary,50,80,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,Light Exercise,18,35,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,Light Exercise,36,49,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,Light Exercise,50,80,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,Moderate Exercise,18,35,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,Moderate Exercise,36,49,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,Moderate Exercise,50,80,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,very active,18,35,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,very active,36,49,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,very active,50,80,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,extreme,18,35,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,extreme,36,49,20,,5,1,0,0,1,1,1
+Hamstring Stretch,yoga,Stretching,extreme,50,80,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,Sedentary,18,35,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,Sedentary,36,49,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,Sedentary,50,80,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,Light Exercise,18,35,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,Light Exercise,36,49,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,Light Exercise,50,80,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,Moderate Exercise,18,35,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,Moderate Exercise,36,49,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,Moderate Exercise,50,80,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,very active,18,35,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,very active,36,49,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,very active,50,80,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,extreme,18,35,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,extreme,36,49,20,,5,1,0,0,1,1,1
+Quad Stretch,yoga,Stretching,extreme,50,80,20,,5,1,0,0,1,1,1
+Shoulder Stretch,yoga,Stretching,Sedentary,18,35,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,Sedentary,36,49,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,Sedentary,50,80,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,Light Exercise,18,35,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,Light Exercise,36,49,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,Light Exercise,50,80,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,Moderate Exercise,18,35,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,Moderate Exercise,36,49,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,Moderate Exercise,50,80,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,very active,18,35,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,very active,36,49,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,very active,50,80,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,extreme,18,35,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,extreme,36,49,20,,4,1,1,1,1,1,1
+Shoulder Stretch,yoga,Stretching,extreme,50,80,20,,4,1,1,1,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,Sedentary,18,35,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,Sedentary,36,49,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,Sedentary,50,80,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,Light Exercise,18,35,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,Light Exercise,36,49,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,Light Exercise,50,80,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,Moderate Exercise,18,35,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,Moderate Exercise,36,49,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,Moderate Exercise,50,80,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,very active,18,35,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,very active,36,49,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,very active,50,80,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,extreme,18,35,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,extreme,36,49,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,yoga,Stretching,extreme,50,80,15,,4,1,1,0,1,1,1
+Pigeon Stretch,yoga,Stretching,Sedentary,18,35,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,Sedentary,36,49,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,Sedentary,50,80,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,Light Exercise,18,35,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,Light Exercise,36,49,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,Light Exercise,50,80,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,Moderate Exercise,18,35,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,Moderate Exercise,36,49,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,Moderate Exercise,50,80,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,very active,18,35,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,very active,36,49,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,very active,50,80,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,extreme,18,35,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,extreme,36,49,15,,3,1,0,0,1,1,1
+Pigeon Stretch,yoga,Stretching,extreme,50,80,15,,3,1,0,0,1,1,1
+Knee Drops,yoga,Stretching,Sedentary,18,35,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,Sedentary,36,49,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,Sedentary,50,80,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,Light Exercise,18,35,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,Light Exercise,36,49,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,Light Exercise,50,80,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,Moderate Exercise,18,35,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,Moderate Exercise,36,49,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,Moderate Exercise,50,80,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,very active,18,35,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,very active,36,49,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,very active,50,80,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,extreme,18,35,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,extreme,36,49,15,,5,1,1,1,1,1,1
+Knee Drops,yoga,Stretching,extreme,50,80,15,,5,1,1,1,1,1,1
+Spine Twist,yoga,Stretching,Sedentary,18,35,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,Sedentary,36,49,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,Sedentary,50,80,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,Light Exercise,18,35,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,Light Exercise,36,49,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,Light Exercise,50,80,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,Moderate Exercise,18,35,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,Moderate Exercise,36,49,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,Moderate Exercise,50,80,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,very active,18,35,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,very active,36,49,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,very active,50,80,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,extreme,18,35,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,extreme,36,49,12,,5,1,1,0,1,1,1
+Spine Twist,yoga,Stretching,extreme,50,80,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,Sedentary,18,35,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,Sedentary,36,49,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,Sedentary,50,80,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,Light Exercise,18,35,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,Light Exercise,36,49,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,Light Exercise,50,80,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,Moderate Exercise,18,35,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,Moderate Exercise,36,49,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,Moderate Exercise,50,80,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,very active,18,35,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,very active,36,49,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,very active,50,80,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,extreme,18,35,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,extreme,36,49,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,yoga,Stretching,extreme,50,80,12,,5,1,1,0,1,1,1
+Piriformis Stretch,yoga,Stretching,Sedentary,18,35,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,Sedentary,36,49,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,Sedentary,50,80,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,Light Exercise,18,35,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,Light Exercise,36,49,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,Light Exercise,50,80,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,Moderate Exercise,18,35,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,Moderate Exercise,36,49,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,Moderate Exercise,50,80,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,very active,18,35,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,very active,36,49,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,very active,50,80,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,extreme,18,35,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,extreme,36,49,12,,4,1,0,0,1,1,1
+Piriformis Stretch,yoga,Stretching,extreme,50,80,12,,4,1,0,0,1,1,1
+Triceps Stretch,yoga,Stretching,Sedentary,18,35,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,Sedentary,36,49,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,Sedentary,50,80,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,Light Exercise,18,35,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,Light Exercise,36,49,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,Light Exercise,50,80,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,Moderate Exercise,18,35,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,Moderate Exercise,36,49,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,Moderate Exercise,50,80,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,very active,18,35,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,very active,36,49,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,very active,50,80,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,extreme,18,35,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,extreme,36,49,15,,5,1,1,1,1,1,1
+Triceps Stretch,yoga,Stretching,extreme,50,80,15,,5,1,1,1,1,1,1
+Lunges with Spinal Twist,yoga,Stretching,Moderate Exercise,18,35,15,,5,1,0,0,1,1,1
+Lunges with Spinal Twist,yoga,Stretching,very active,18,35,15,,5,1,0,0,1,1,1
+Lunges with Spinal Twist,yoga,Stretching,extreme,18,35,15,,5,1,0,0,1,1,1
+Butterfly Stretch,yoga,Stretching,Sedentary,18,35,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,Sedentary,36,49,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,Sedentary,50,80,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,Light Exercise,18,35,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,Light Exercise,36,49,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,Light Exercise,50,80,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,Moderate Exercise,18,35,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,Moderate Exercise,36,49,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,Moderate Exercise,50,80,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,very active,18,35,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,very active,36,49,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,very active,50,80,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,extreme,18,35,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,extreme,36,49,12,,8,1,1,1,1,1,1
+Butterfly Stretch,yoga,Stretching,extreme,50,80,12,,8,1,1,1,1,1,1
+Side Bend Stretch,yoga,Stretching,Sedentary,18,35,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,Sedentary,36,49,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,Sedentary,50,80,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,Light Exercise,18,35,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,Light Exercise,36,49,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,Light Exercise,50,80,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,Moderate Exercise,18,35,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,Moderate Exercise,36,49,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,Moderate Exercise,50,80,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,very active,18,35,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,very active,36,49,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,very active,50,80,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,extreme,18,35,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,extreme,36,49,12,,5,1,0,0,1,1,1
+Side Bend Stretch,yoga,Stretching,extreme,50,80,12,,5,1,0,0,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,Sedentary,18,35,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,Sedentary,36,49,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,Sedentary,50,80,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,Light Exercise,18,35,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,Light Exercise,36,49,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,Light Exercise,50,80,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,Moderate Exercise,18,35,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,Moderate Exercise,36,49,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,Moderate Exercise,50,80,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,very active,18,35,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,very active,36,49,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,very active,50,80,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,extreme,18,35,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,extreme,36,49,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,yoga,Stretching,extreme,50,80,15,,5,1,1,1,1,1,1
+Lunging Hip Flexor Stretch,yoga,Stretching,Moderate Exercise,18,35,12,,5,1,0,0,1,1,1
+Lunging Hip Flexor Stretch,yoga,Stretching,very active,18,35,12,,5,1,0,0,1,1,1
+Lunging Hip Flexor Stretch,yoga,Stretching,extreme,18,35,12,,5,1,0,0,1,1,1
+Knee to Chest Stretch,yoga,Stretching,Sedentary,18,35,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,Sedentary,36,49,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,Sedentary,50,80,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,Light Exercise,18,35,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,Light Exercise,36,49,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,Light Exercise,50,80,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,Moderate Exercise,18,35,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,Moderate Exercise,36,49,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,Moderate Exercise,50,80,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,very active,18,35,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,very active,36,49,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,very active,50,80,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,extreme,18,35,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,extreme,36,49,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,yoga,Stretching,extreme,50,80,15,,5,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,Sedentary,18,35,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,Sedentary,36,49,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,Sedentary,50,80,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,Light Exercise,18,35,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,Light Exercise,36,49,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,Light Exercise,50,80,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,Moderate Exercise,18,35,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,Moderate Exercise,36,49,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,Moderate Exercise,50,80,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,very active,18,35,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,very active,36,49,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,very active,50,80,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,extreme,18,35,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,extreme,36,49,12,,10,1,1,1,1,1,1
+Seated Neck Release,yoga,Stretching,extreme,50,80,12,,10,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,Sedentary,18,35,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,Sedentary,36,49,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,Sedentary,50,80,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,Light Exercise,18,35,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,Light Exercise,36,49,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,Light Exercise,50,80,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,Moderate Exercise,18,35,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,Moderate Exercise,36,49,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,Moderate Exercise,50,80,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,very active,18,35,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,very active,36,49,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,very active,50,80,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,extreme,18,35,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,extreme,36,49,12,,4,1,1,1,1,1,1
+Cobra Pose,yoga,Stretching,extreme,50,80,12,,4,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,Sedentary,18,35,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,Sedentary,36,49,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,Sedentary,50,80,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,Light Exercise,18,35,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,Light Exercise,36,49,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,Light Exercise,50,80,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,Moderate Exercise,18,35,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,Moderate Exercise,36,49,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,Moderate Exercise,50,80,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,very active,18,35,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,very active,36,49,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,very active,50,80,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,extreme,18,35,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,extreme,36,49,15,,2,1,1,1,1,1,1
+Child's Pose,yoga,Stretching,extreme,50,80,15,,2,1,1,1,1,1,1
+Bird Dog,gym,Stretching,Sedentary,18,35,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,Sedentary,36,49,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,Sedentary,50,80,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,Light Exercise,18,35,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,Light Exercise,36,49,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,Light Exercise,50,80,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,Moderate Exercise,18,35,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,Moderate Exercise,36,49,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,Moderate Exercise,50,80,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,very active,18,35,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,very active,36,49,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,very active,50,80,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,extreme,18,35,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,extreme,36,49,30,,4,1,0,0,1,1,1
+Bird Dog,gym,Stretching,extreme,50,80,30,,4,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,Sedentary,18,35,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,Sedentary,36,49,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,Sedentary,50,80,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,Light Exercise,18,35,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,Light Exercise,36,49,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,Light Exercise,50,80,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,Moderate Exercise,18,35,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,Moderate Exercise,36,49,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,Moderate Exercise,50,80,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,very active,18,35,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,very active,36,49,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,very active,50,80,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,extreme,18,35,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,extreme,36,49,20,,5,1,0,0,1,1,1
+Hamstring Stretch,gym,Stretching,extreme,50,80,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,Sedentary,18,35,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,Sedentary,36,49,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,Sedentary,50,80,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,Light Exercise,18,35,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,Light Exercise,36,49,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,Light Exercise,50,80,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,Moderate Exercise,18,35,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,Moderate Exercise,36,49,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,Moderate Exercise,50,80,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,very active,18,35,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,very active,36,49,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,very active,50,80,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,extreme,18,35,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,extreme,36,49,20,,5,1,0,0,1,1,1
+Quad Stretch,gym,Stretching,extreme,50,80,20,,5,1,0,0,1,1,1
+Shoulder Stretch,gym,Stretching,Sedentary,18,35,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,Sedentary,36,49,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,Sedentary,50,80,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,Light Exercise,18,35,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,Light Exercise,36,49,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,Light Exercise,50,80,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,Moderate Exercise,18,35,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,Moderate Exercise,36,49,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,Moderate Exercise,50,80,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,very active,18,35,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,very active,36,49,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,very active,50,80,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,extreme,18,35,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,extreme,36,49,20,,4,1,1,1,1,1,1
+Shoulder Stretch,gym,Stretching,extreme,50,80,20,,4,1,1,1,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,Sedentary,18,35,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,Sedentary,36,49,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,Sedentary,50,80,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,Light Exercise,18,35,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,Light Exercise,36,49,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,Light Exercise,50,80,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,Moderate Exercise,18,35,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,Moderate Exercise,36,49,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,Moderate Exercise,50,80,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,very active,18,35,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,very active,36,49,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,very active,50,80,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,extreme,18,35,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,extreme,36,49,15,,4,1,1,0,1,1,1
+Hip Figure 4 Stretch,gym,Stretching,extreme,50,80,15,,4,1,1,0,1,1,1
+Pigeon Stretch,gym,Stretching,Sedentary,18,35,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,Sedentary,36,49,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,Sedentary,50,80,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,Light Exercise,18,35,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,Light Exercise,36,49,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,Light Exercise,50,80,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,Moderate Exercise,18,35,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,Moderate Exercise,36,49,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,Moderate Exercise,50,80,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,very active,18,35,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,very active,36,49,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,very active,50,80,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,extreme,18,35,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,extreme,36,49,15,,3,1,0,0,1,1,1
+Pigeon Stretch,gym,Stretching,extreme,50,80,15,,3,1,0,0,1,1,1
+Knee Drops,gym,Stretching,Sedentary,18,35,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,Sedentary,36,49,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,Sedentary,50,80,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,Light Exercise,18,35,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,Light Exercise,36,49,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,Light Exercise,50,80,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,Moderate Exercise,18,35,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,Moderate Exercise,36,49,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,Moderate Exercise,50,80,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,very active,18,35,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,very active,36,49,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,very active,50,80,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,extreme,18,35,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,extreme,36,49,15,,5,1,1,1,1,1,1
+Knee Drops,gym,Stretching,extreme,50,80,15,,5,1,1,1,1,1,1
+Spine Twist,gym,Stretching,Sedentary,18,35,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,Sedentary,36,49,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,Sedentary,50,80,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,Light Exercise,18,35,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,Light Exercise,36,49,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,Light Exercise,50,80,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,Moderate Exercise,18,35,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,Moderate Exercise,36,49,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,Moderate Exercise,50,80,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,very active,18,35,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,very active,36,49,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,very active,50,80,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,extreme,18,35,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,extreme,36,49,12,,5,1,1,0,1,1,1
+Spine Twist,gym,Stretching,extreme,50,80,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,Sedentary,18,35,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,Sedentary,36,49,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,Sedentary,50,80,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,Light Exercise,18,35,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,Light Exercise,36,49,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,Light Exercise,50,80,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,Moderate Exercise,18,35,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,Moderate Exercise,36,49,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,Moderate Exercise,50,80,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,very active,18,35,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,very active,36,49,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,very active,50,80,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,extreme,18,35,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,extreme,36,49,12,,5,1,1,0,1,1,1
+Standing Hamstring Stretch,gym,Stretching,extreme,50,80,12,,5,1,1,0,1,1,1
+Piriformis Stretch,gym,Stretching,Sedentary,18,35,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,Sedentary,36,49,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,Sedentary,50,80,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,Light Exercise,18,35,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,Light Exercise,36,49,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,Light Exercise,50,80,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,Moderate Exercise,18,35,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,Moderate Exercise,36,49,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,Moderate Exercise,50,80,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,very active,18,35,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,very active,36,49,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,very active,50,80,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,extreme,18,35,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,extreme,36,49,12,,4,1,0,0,1,1,1
+Piriformis Stretch,gym,Stretching,extreme,50,80,12,,4,1,0,0,1,1,1
+Triceps Stretch,gym,Stretching,Sedentary,18,35,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,Sedentary,36,49,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,Sedentary,50,80,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,Light Exercise,18,35,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,Light Exercise,36,49,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,Light Exercise,50,80,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,Moderate Exercise,18,35,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,Moderate Exercise,36,49,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,Moderate Exercise,50,80,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,very active,18,35,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,very active,36,49,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,very active,50,80,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,extreme,18,35,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,extreme,36,49,15,,5,1,1,1,1,1,1
+Triceps Stretch,gym,Stretching,extreme,50,80,15,,5,1,1,1,1,1,1
+Lunges with Spinal Twist,gym,Stretching,Moderate Exercise,18,35,15,,5,1,0,0,1,1,1
+Lunges with Spinal Twist,gym,Stretching,very active,18,35,15,,5,1,0,0,1,1,1
+Lunges with Spinal Twist,gym,Stretching,extreme,18,35,15,,5,1,0,0,1,1,1
+Butterfly Stretch,gym,Stretching,Sedentary,18,35,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,Sedentary,36,49,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,Sedentary,50,80,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,Light Exercise,18,35,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,Light Exercise,36,49,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,Light Exercise,50,80,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,Moderate Exercise,18,35,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,Moderate Exercise,36,49,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,Moderate Exercise,50,80,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,very active,18,35,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,very active,36,49,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,very active,50,80,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,extreme,18,35,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,extreme,36,49,12,,8,1,1,1,1,1,1
+Butterfly Stretch,gym,Stretching,extreme,50,80,12,,8,1,1,1,1,1,1
+Side Bend Stretch,gym,Stretching,Sedentary,18,35,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,Sedentary,36,49,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,Sedentary,50,80,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,Light Exercise,18,35,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,Light Exercise,36,49,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,Light Exercise,50,80,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,Moderate Exercise,18,35,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,Moderate Exercise,36,49,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,Moderate Exercise,50,80,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,very active,18,35,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,very active,36,49,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,very active,50,80,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,extreme,18,35,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,extreme,36,49,12,,5,1,0,0,1,1,1
+Side Bend Stretch,gym,Stretching,extreme,50,80,12,,5,1,0,0,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,Sedentary,18,35,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,Sedentary,36,49,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,Sedentary,50,80,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,Light Exercise,18,35,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,Light Exercise,36,49,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,Light Exercise,50,80,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,Moderate Exercise,18,35,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,Moderate Exercise,36,49,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,Moderate Exercise,50,80,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,very active,18,35,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,very active,36,49,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,very active,50,80,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,extreme,18,35,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,extreme,36,49,15,,5,1,1,1,1,1,1
+Seated Shoulder Squeeze,gym,Stretching,extreme,50,80,15,,5,1,1,1,1,1,1
+Lunging Hip Flexor Stretch,gym,Stretching,Moderate Exercise,18,35,12,,5,1,0,0,1,1,1
+Lunging Hip Flexor Stretch,gym,Stretching,very active,18,35,12,,5,1,0,0,1,1,1
+Lunging Hip Flexor Stretch,gym,Stretching,extreme,18,35,12,,5,1,0,0,1,1,1
+Knee to Chest Stretch,gym,Stretching,Sedentary,18,35,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,Sedentary,36,49,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,Sedentary,50,80,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,Light Exercise,18,35,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,Light Exercise,36,49,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,Light Exercise,50,80,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,Moderate Exercise,18,35,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,Moderate Exercise,36,49,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,Moderate Exercise,50,80,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,very active,18,35,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,very active,36,49,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,very active,50,80,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,extreme,18,35,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,extreme,36,49,15,,5,1,1,1,1,1,1
+Knee to Chest Stretch,gym,Stretching,extreme,50,80,15,,5,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,Sedentary,18,35,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,Sedentary,36,49,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,Sedentary,50,80,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,Light Exercise,18,35,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,Light Exercise,36,49,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,Light Exercise,50,80,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,Moderate Exercise,18,35,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,Moderate Exercise,36,49,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,Moderate Exercise,50,80,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,very active,18,35,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,very active,36,49,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,very active,50,80,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,extreme,18,35,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,extreme,36,49,12,,10,1,1,1,1,1,1
+Seated Neck Release,gym,Stretching,extreme,50,80,12,,10,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,Sedentary,18,35,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,Sedentary,36,49,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,Sedentary,50,80,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,Light Exercise,18,35,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,Light Exercise,36,49,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,Light Exercise,50,80,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,Moderate Exercise,18,35,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,Moderate Exercise,36,49,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,Moderate Exercise,50,80,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,very active,18,35,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,very active,36,49,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,very active,50,80,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,extreme,18,35,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,extreme,36,49,12,,4,1,1,1,1,1,1
+Cobra Pose,gym,Stretching,extreme,50,80,12,,4,1,1,1,1,1,1
+Child's Pose,gym,Stretching,Sedentary,18,35,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,Sedentary,36,49,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,Sedentary,50,80,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,Light Exercise,18,35,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,Light Exercise,36,49,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,Light Exercise,50,80,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,Moderate Exercise,18,35,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,Moderate Exercise,36,49,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,Moderate Exercise,50,80,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,very active,18,35,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,very active,36,49,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,very active,50,80,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,extreme,18,35,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,extreme,36,49,15,,2,1,1,1,1,1,1
+Child's Pose,gym,Stretching,extreme,50,80,15,,2,1,1,1,1,1,1
