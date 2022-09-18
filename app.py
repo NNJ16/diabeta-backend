@@ -45,8 +45,6 @@ def predict_diabetes():
 @app.route("/exercise/recommendation",  methods=['POST'])
 def exercise_recommendation():
     df = pd.read_csv("Exercise.csv")
-    #remove duplicate exersises
-    df.drop_duplicates(subset=['Exercise'], inplace= True)
 
     # convert to lowercase and remove spaces
     def clean(sentence):
@@ -93,16 +91,31 @@ def exercise_recommendation():
         idx = index[index == exercise].index[0]
         print(idx)
         score = pd.Series(cosine_sim[idx]).sort_values(ascending=False)
-        top5 = list(score.iloc[1:11].index)
-        print(top5)
+        data = list(score.index)
     
-        for i in top5:
+    
+        for i in data:
             exercises.append(df['Exercise'][i])
-        return exercises
+        
+        # initialize a null list
+        unique_list = []
+  
+        # traverse for all elements
+        for x in exercises:
+            # check if exists in unique_list or not
+            if x not in unique_list:
+                unique_list.append(x)
+            
+        top10 = unique_list[:10]
+    
+        return top10
 
     df['indexes'] = df['clean_input'].str.find(data_array[0]+data_array[1]+' '+data_array[2]+' '+data_array[3]+' '+data_array[4])
     exercise = df[df['indexes'] >= 0]
-    return json.dumps(recommend_exercise(exercise.iloc[0]['Exercise']))
+    if(exercise.empty):
+        return ""
+    else:
+        return json.dumps(recommend_exercise(exercise.iloc[0]['Exercise']))
 
 if __name__ == "__main__":
     app.run(debug=TRUE)
