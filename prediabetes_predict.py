@@ -42,5 +42,5 @@ accuracy = accuracy_score(y_test, prediction)
 print('Accuracy score of the test data: ', accuracy)
 
 # Creating a pickle file for the classifier
-filename = 'diabetes-prediction-rfc-model.pkl'
+filename = 'prediabetes-model.pkl'
 pickle.dump(rf, open(filename, 'wb'))

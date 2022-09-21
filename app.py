@@ -3,13 +3,16 @@ import pickle
 import numpy as np
 import pandas as pd
 import json
+from sklearn.preprocessing import StandardScaler
 from flask import Flask, request,render_template
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Load the Random Forest CLassifier model
-prediabetes_model_filename = 'diabetes-prediction-rfc-model.pkl'
+prediabetes_model_filename = 'prediabetes-model.pkl'
 prediabetes_model = pickle.load(open(prediabetes_model_filename, 'rb'))
+
+diabetes_model_filename = 'diabetes-model.pkl'
+diabetes_model = pickle.load(open(diabetes_model_filename, 'rb'))
 
 app = Flask(__name__)
 
@@ -19,6 +22,41 @@ def home():
 
 @app.route("/diabetes/predict",  methods=['POST'])
 def predict_diabetes():
+    data = request.get_json()
+
+    data_array = [
+        data["Glucose"],
+        data["BloodPressure"],
+        data["SkinThickness"],
+        data["Insulin"],
+        data["BMI"],
+        data["Age"],
+    ]
+    
+    df = pd.read_csv('diabetes.csv')
+
+    df[['Glucose','BloodPressure','SkinThickness','Insulin','BMI']] = df[['Glucose','BloodPressure','SkinThickness','Insulin','BMI']].replace(0,np.NaN)
+
+    df = df[df.Insulin > 0]
+    df.isnull().sum()
+
+    df['Glucose'].fillna(df['Glucose'].median(), inplace =True)
+    df['BMI'].fillna(df['BMI'].median(), inplace =True)
+
+    df.drop(columns=['DiabetesPedigreeFunction','Pregnancies'], axis=1, inplace = True)
+
+    X = df.drop(columns='Outcome', axis=1)
+
+    scaler = StandardScaler()
+    scaler.fit(X)
+    data = np.array([data_array])
+    prediction = diabetes_model.predict(scaler.transform(data))
+    probability = diabetes_model.predict_proba(scaler.transform(data))
+
+    return str(json.dumps({"result": int(prediction[0]), "probability": float(probability[0][1])}))
+
+@app.route("/prediabetes/predict",  methods=['POST'])
+def predict_prediabetes():
     data = request.get_json()
 
     data_array = [
@@ -37,8 +75,6 @@ def predict_diabetes():
     data = np.array([data_array])
     prediction = prediabetes_model.predict(data)
     probability = prediabetes_model.predict_proba(data)
-    print(prediction)
-    print(probability)
 
     return str(json.dumps({"result": int(prediction[0]), "probability": float(probability[0][1])}))
 
