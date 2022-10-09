@@ -2,7 +2,10 @@ from pickle import TRUE
 import pickle
 import numpy as np
 import pandas as pd
+from pandas import DataFrame
 import json
+from pandas import to_datetime
+from prophet import Prophet
 from sklearn.preprocessing import StandardScaler
 from flask import Flask, request,render_template
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -14,11 +17,46 @@ prediabetes_model = pickle.load(open(prediabetes_model_filename, 'rb'))
 diabetes_model_filename = 'diabetes-model.pkl'
 diabetes_model = pickle.load(open(diabetes_model_filename, 'rb'))
 
+def predict_glucose_level(from_date, period, df):
+    # define the model
+    model = Prophet()
+
+    # fit the model
+    model.fit(df)
+    
+    future = list()
+    dates = pd.date_range(from_date, periods=period, freq='D')
+
+    for day in dates:
+        date = str(day.date())
+        future.append([date])
+	
+    future = DataFrame(future)
+    future.columns = ['ds']
+    future['ds'] = to_datetime(future['ds'])
+
+    #use the model to make a forecast
+    forecast = model.predict(future)
+    forecast = forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']]
+    forecast['ds'] = forecast['ds'].dt.strftime('%Y-%m-%d')
+    print(forecast)
+    return forecast.to_json(orient='index')
+
 app = Flask(__name__)
 
 @app.route('/')
 def home():
     return render_template('index.html')
+
+@app.route("/glucose/predict",  methods=['POST'])
+def predict_glucose():
+    data = request.get_json()
+    df = pd.json_normalize(data["glucose"])
+    date = data["fromDate"]
+    df.columns = ['ds', 'y']
+    df['ds']= to_datetime(df['ds'])
+    forecast = predict_glucose_level(date, 3, df)
+    return forecast
 
 @app.route("/diabetes/predict",  methods=['POST'])
 def predict_diabetes():
