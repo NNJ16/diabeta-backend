@@ -3,3 +3,4 @@ scikit_learn
 pandas
 numpy
 gunicorn
+prophet
