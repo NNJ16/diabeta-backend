@@ -17,6 +17,15 @@ prediabetes_model = pickle.load(open(prediabetes_model_filename, 'rb'))
 diabetes_model_filename = 'diabetes-model.pkl'
 diabetes_model = pickle.load(open(diabetes_model_filename, 'rb'))
 
+eyerisk_model_filename = 'eye-prediction-model.pkl'
+eyerisk_model = pickle.load(open(eyerisk_model_filename, 'rb'))
+
+kidneyrisk_model_filename = 'kidney-prediction-model.pkl'
+kidneyrisk_model = pickle.load(open(kidneyrisk_model_filename, 'rb'))
+
+heartrisk_model_filename = 'heart-prediction-model.pkl'
+heartrisk_model = pickle.load(open(heartrisk_model_filename, 'rb'))
+
 def predict_glucose_level(from_date, period, df):
     # define the model
     model = Prophet()
@@ -190,6 +199,47 @@ def exercise_recommendation():
         return ""
     else:
         return json.dumps(recommend_exercise(exercise.iloc[0]['Exercise']))
+
+@app.route("/eyerisk/predict",  methods=['POST'])
+def predict_eyerisk():
+    data = request.get_json()
+
+    data_array = [
+        data["Age"],
+        data["Gender"],
+        data["Glucoma"],
+        data["Surgery"],
+        data["Pain"],
+        data["Vision"],
+        data["Diabetes"]
+    ]
+
+    data = np.array([data_array])
+    prediction = eyerisk_model.predict(data)
+    probability = eyerisk_model.predict_proba(data)
+
+    return str(json.dumps({"result": int(prediction[0]), "probability": float(probability[0][1])}))
+
+@app.route("/heartrisk/predict",  methods=['POST'])
+def predict_kidneyrisk():
+    data = request.get_json()
+
+    data_array = [
+        data["Age"],
+        data["Gender"],
+        data["Blood Pressure"],
+        data["Cholesterol"],
+        data["Stress Level"],
+        data["Smoking Status"],
+        data["Activitve Level"],
+        data["Diabetes Status"]
+    ]
+
+    data = np.array([data_array])
+    prediction = heartrisk_model.predict(data)
+    probability = heartrisk_model.predict_proba(data)
+
+    return str(json.dumps({"result": int(prediction[0]), "probability": float(probability[0][1])}))
 
 if __name__ == "__main__":
     app.run(debug=TRUE)
