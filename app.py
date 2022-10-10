@@ -125,6 +125,74 @@ def predict_prediabetes():
 
     return str(json.dumps({"result": int(prediction[0]), "probability": float(probability[0][1])}))
 
+@app.route("/food/recommendation",  methods=['POST'])
+def food_recommendation():
+    df = pd.read_csv("Food_List.csv")
+
+    # convert to lowercase and remove spaces
+    def clean(sentence):
+        temp = ""
+        for word in sentence:
+            temp = temp + (word.lower().replace(' ', ''))
+        return temp
+
+    df['Veg/NonVeg'] = [clean(x) for x in df['Veg/NonVeg']]
+    df['Breakfast'] = df ['Breakfast'].replace({1:'breakfast',0:'notbreakfast'})
+    df['Lunch'] = df ['Lunch'].replace({1:'lunch',0:'notlunch'})
+    df['Dinner'] = df ['Dinner'].replace({1:'dinner',0:'notdinner'})
+    df['Snack'] = df ['Snack'].replace({1:'snack',0:'notsnack'})
+    df['Deserts'] = df ['Deserts'].replace({1:'desert',0:'notdesert'})
+    df['PreDiabetic'] = df ['PreDiabetic'].replace({1:'prediabetic',0:'nonprediabetic' })
+    df['Diabetic'] = df ['Diabetic'].replace({1:'diabetic',0:'nondiabetic' })
+
+    # combining all the columns data
+    columns = ['Breakfast', 'Lunch', 'Dinner', 'Snack', 'Deserts','type','Veg/NonVeg', 'PreDiabetic', 'Diabetic']
+
+    df["clean_input"] = df[columns].apply(" ".join, axis=1)
+    df["clean_input"]
+
+    df = df[['Food_items', 'clean_input']]
+    
+    tfidf = TfidfVectorizer()
+    features = tfidf.fit_transform(df['clean_input'])
+
+    cosine_sim = cosine_similarity(features, features)
+    
+    index = pd.Series(df['Food_items'])
+    
+    data = request.get_json()
+
+    def recommend_food(food):
+        foodList = []
+        idx = index[index == food].index[0]
+        score = pd.Series(cosine_sim[idx]).sort_values(ascending=False)
+        data = list(score.index)
+    
+    
+        for i in data:
+            foodList.append(df['Food_items'][i])
+        
+        # initialize a null list
+        unique_list = []
+  
+        # traverse for all elements
+        for x in foodList:
+            # check if exists in unique_list or not
+            if x not in unique_list:
+                unique_list.append(x)
+            
+        top10 = unique_list[:5]
+    
+        return top10
+
+    df['indexes'] = df['clean_input'].str.find(data["clean_input"])
+    food = df[df['indexes'] >= 0]
+    if(food.empty):
+        return ""
+    else:
+        return json.dumps(recommend_food(food.iloc[0]['Food_items']))
+
+
 @app.route("/exercise/recommendation",  methods=['POST'])
 def exercise_recommendation():
     df = pd.read_csv("Exercise.csv")
