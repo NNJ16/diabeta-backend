@@ -248,7 +248,6 @@ def predict_kidneyrisk():
     data_array = [
         data["Age"],
         data["Gender"],
-        data["Blood Pressure"],
         data["Take Medicine"],
         data["Kidney Problem"],
         data["Urine Low"],
