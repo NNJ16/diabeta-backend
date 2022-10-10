@@ -221,7 +221,7 @@ def predict_eyerisk():
     return str(json.dumps({"result": int(prediction[0]), "probability": float(probability[0][1])}))
 
 @app.route("/heartrisk/predict",  methods=['POST'])
-def predict_kidneyrisk():
+def predict_heartrisk():
     data = request.get_json()
 
     data_array = [
@@ -240,6 +240,27 @@ def predict_kidneyrisk():
     probability = heartrisk_model.predict_proba(data)
 
     return str(json.dumps({"result": int(prediction[0]), "probability": float(probability[0][1])}))
+
+@app.route("/kidneyrisk/predict",  methods=['POST'])
+def predict_kidneyrisk():
+    data = request.get_json()
+
+    data_array = [
+        data["Age"],
+        data["Gender"],
+        data["Blood Pressure"],
+        data["Take Medicine"],
+        data["Kidney Problem"],
+        data["Urine Low"],
+        data["Diabetes"]
+    ]
+
+    data = np.array([data_array])
+    prediction = kidneyrisk_model.predict(data)
+    probability = kidneyrisk_model.predict_proba(data)
+
+    return str(json.dumps({"result": int(prediction[0]), "probability": float(probability[0][1])}))
+
 
 if __name__ == "__main__":
     app.run(debug=TRUE)
