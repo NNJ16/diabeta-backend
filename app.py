@@ -151,7 +151,7 @@ def food_recommendation():
     df["clean_input"] = df[columns].apply(" ".join, axis=1)
     df["clean_input"]
 
-    df = df[['Food_items', 'clean_input']]
+    df = df[['Food_items', 'clean_input','Servings','Portion']]
     
     tfidf = TfidfVectorizer()
     features = tfidf.fit_transform(df['clean_input'])
@@ -170,7 +170,7 @@ def food_recommendation():
     
     
         for i in data:
-            foodList.append(df['Food_items'][i])
+            foodList.append(df['Food_items'][i] +" "+ str(int(df['Servings'][i]))+ " "+df['Portion'][i])
         
         # initialize a null list
         unique_list = []
