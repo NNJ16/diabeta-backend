@@ -17,7 +17,7 @@ df['Gender'] = df ['Gender'].replace({'Female':0,'Male':1 })
 X = df.drop(['Target'], axis='columns')
 y = df['Target']
 
-X_fs = X[['Age', 'Gender','Take Medicine','Kidney Problem','Urine Low', 'Diabetes']]
+X_fs = X[['Age', 'Gender','Teke Medicine','Kidney Problem','Urine Low', 'Diabetes']]
 
 X_train, X_test, y_train, y_test = train_test_split(X_fs, y, test_size = 0.2,stratify=y, random_state = 1234)
 
