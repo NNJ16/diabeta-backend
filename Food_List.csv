@@ -1,4 +1,4 @@
-Food_items,Breakfast,Lunch,Dinner,Snack,Deserts,type,Veg/NonVeg,Calories,Servings,Piece/Plate/Bowl/Fist/cup/unit,PreDiabetic,Diabetic
+Food_items,Breakfast,Lunch,Dinner,Snack,Deserts,type,Veg/NonVeg,Calories,Servings,Portion,PreDiabetic,Diabetic
 Chapati,0,1,1,0,0,rice and others,Veg,104,2,Piece,1,0
 Corn Roti,0,1,1,0,0,rice and others,Veg,70,2,Piece,1,1
 Paratha,0,0,1,0,0,rice and others,Veg,126,1,Piece,1,0
