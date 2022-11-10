@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 from pandas import DataFrame
 import json
+from fuzzywuzzy import process
 from pandas import to_datetime
 from prophet import Prophet
 from sklearn.preprocessing import StandardScaler
@@ -184,13 +185,14 @@ def food_recommendation():
         top10 = unique_list[:5]
     
         return top10
+    clean_input = df['clean_input'].tolist()
+    highest = process.extractOne(data["clean_input"], clean_input)[0]
+    food = df[df['clean_input'] == highest].values[0][0]
 
-    df['indexes'] = df['clean_input'].str.find(data["clean_input"])
-    food = df[df['indexes'] >= 0]
-    if(food.empty):
+    if(food == ""):
         return ""
     else:
-        return json.dumps(recommend_food(food.iloc[0]['Food_items']))
+        return json.dumps(recommend_food(food))
 
 
 @app.route("/exercise/recommendation",  methods=['POST'])
