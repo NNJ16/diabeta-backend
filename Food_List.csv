@@ -1,113 +1,103 @@
-Food_items,Breakfast,Lunch,Dinner,Snack,Deserts,type,Veg/NonVeg,Calories,Servings,Portion,PreDiabetic,Diabetic
-Chapati,0,1,1,0,0,rice and others,Veg,104,2,Piece,1,0
-Corn Roti,0,1,1,0,0,rice and others,Veg,70,2,Piece,1,1
-Paratha,0,0,1,0,0,rice and others,Veg,126,1,Piece,1,0
-Naan,0,1,1,0,0,rice and others,Veg,136,1,Piece,1,0
-Bread,1,1,1,1,0,rice and others,Veg,67,2,Piece,1,0
-Wholegrain Bread,1,1,1,1,0,rice and others,Veg,92,2,Piece,1,1
-Dosa,1,1,1,0,0,rice and others,Veg,133,1,Piece,1,1
-Rice,0,1,1,0,0,rice and others,Veg,200,1,Bowl,1,1
-Brown Rice,0,1,1,0,0,rice and others,Veg,216,1,Bowl,1,1
-Noodle,0,1,1,1,0,rice and others,Veg,190,1,Bowl,1,1
-Oats,1,0,0,0,0,cereals,Veg,150,1,Bowl,1,0
-Brown rice Pulav,0,1,1,0,0,rice and others,Veg,359,1,Bowl,1,1
-Sandwich,1,0,0,1,0,rice and others,Veg,266,1,Piece,1,1
-Samosa,1,0,0,1,0,snack,Veg,262,1,Piece,1,0
-Idli,1,0,0,1,0,snack,Veg,39,2,Piece,1,1
-Vada,1,0,0,1,0,snack,Veg,97,2,Piece,1,0
-Uttapam,1,1,1,0,0,rice and others,Veg,92,1,Piece,1,1
-Aloo Paratha,0,1,1,0,0,rice and others,Veg,177,1,Piece,1,0
-Spinach ,0,1,1,0,0,vegetables,Veg,46,1,Bowl,1,1
-Sweet potato,0,1,1,0,0,vegetables,Veg,86,1,Bowl,1,0
-Mushroom,0,1,1,0,0,vegetables,Veg,22,1,Bowl,1,1
-Peas,0,1,1,0,0,cereals,Veg,81,1,Bowl,1,1
-Fat-free Paneer,0,1,1,0,0,vegetables,Veg,256,1,Bowl,1,1
-Soya ,1,0,1,0,0,cereals,Veg,446,1,Bowl,1,1
-Broccoli,1,1,1,0,0,vegetables,Veg,34,1,Bowl,1,1
-Protien Smoothies,1,0,0,1,0,beverages,Veg,116,1,Cup,1,1
-Banana & Honey smoothie ,0,0,0,1,0,beverages,Veg,305,1,Cup,1,0
-Skimmed Milk,1,0,0,1,0,beverages,Veg,115,1,Cup,1,1
-Tea with Skimmed Milk,1,0,0,1,0,beverages,Veg,15,1,Cup,1,0
-Coffee with Skimmed Milk,1,0,0,1,0,beverages,Veg,25,1,Cup,1,0
-Tea without sugar/milk,1,0,0,1,0,beverages,Veg,2.4,1,Cup,1,1
-Coffee without sugar/milk,1,0,0,1,0,beverages,Veg,5,1,Cup,1,1
-Green Tea,1,0,0,0,0,beverages,Veg,2.5,1,Cup,1,1
-Butter Milk,0,0,1,0,0,beverages,Veg,40,1,Cup,1,1
-Lemonade,1,0,0,0,0,beverages,Veg,40,1,Cup,1,0
-Tomato soup,0,1,1,1,0,rice and others,Veg,30,1,Cup,1,0
-Yoghurt/Curd,0,1,0,0,1,dairy products,Veg,96,1,Bowl,1,1
-"Mixed Nuts (almonds, walnuts)",1,0,0,1,0,cereals,Veg,520,1,Fist,1,1
-Cinnamon/Flakseed,1,0,0,1,0,miscellaneous,Veg,100,1,Fist,1,1
-Raddish,1,1,1,0,0,vegetables,Veg,16,1,Bowl,1,1
-Apple,1,0,0,1,1,fruits,Veg,95,1,Unit,1,1
-Pear,1,0,0,1,1,fruits,Veg,101,1,Unit,1,1
-Pomogranate,1,0,0,1,1,fruits,Veg,57,1,Unit,1,1
-Orange,1,0,0,1,1,fruits,Veg,47,1,Unit,1,1
-Kiwi,1,0,0,1,1,fruits,Veg,45,1,Unit,1,0
-Watermelon,1,0,0,1,1,fruits,Veg,30,6,Piece,1,1
-Papaya,1,0,0,1,1,fruits,Veg,215,6,Piece,1,1
-Banana,1,0,0,1,1,fruits,Veg,111,1,Unit,1,0
-Boiled Corn,1,1,1,1,0,cereals,Veg,100,1,Bowl,1,1
-Guava,1,0,0,1,1,fruits,Veg,37,1,Unit,1,0
-Wholegrain  cereals,1,0,0,0,0,cereals,Veg,256,1,Fist,1,1
-Boiled Egg,1,1,1,1,0,miscellaneous,Nonveg,71,1,Piece,1,0
-Egg Whites,1,1,1,1,0,miscellaneous,Nonveg,16,2,Piece,1,1
-Scrammbled Egg,1,1,1,0,0,miscellaneous,Nonveg,148,2,Piece,1,0
-Roasted Salmon Fish,0,1,0,0,0,seafood,Nonveg,367,2,Piece,1,1
-Roasted Sardine Fish,0,0,1,0,0,seafood,Nonveg,310,2,Piece,1,1
-Roasted Mackerel Fish,0,0,1,0,0,seafood,Nonveg,231,2,Piece,1,1
-Roasted Tuna Fish,0,0,1,0,0,seafood,Nonveg,240,2,Piece,1,1
-Chicken Soup,0,0,1,0,0,meat,Nonveg,70,1,Bowl,1,1
-Grilled Chicken,0,0,1,0,0,meat,Nonveg,226,2,Piece,1,1
-Roasted Chicken,0,0,1,0,0,meat,Nonveg,239,2,Piece,1,1
-Baked Chicken,0,0,1,0,0,meat,Nonveg,230,2,Piece,1,1
-Fried Chicken,0,1,0,0,0,meat,Nonveg,340,1,Piece,1,0
-Chicken Shawarma,0,1,1,0,0,snack,Nonveg,430,1,Unit,1,0
-Red Meat,0,1,1,0,0,meat,Nonveg,486,2,Piece,1,1
-Puri,0,1,1,0,0,rice and others,Veg,270,5,Piece,1,0
-Fried Rice,0,1,1,0,0,rice and others,Veg,320,1,Plate,1,0
-Pizza,0,1,1,0,0,rice and others,Veg,200,1,Unit,1,0
-Lentils,0,1,1,0,0,cereals,Veg,116,1,Bowl,1,1
-Low Fat Peanut butter Sandwich,1,0,0,1,0,snack,Veg,125,1,Unit,1,1
-Low Fat Cheese Sandwitch,1,0,0,1,0,snack,Veg,190,1,Unit,1,1
-Rice pudding,0,0,0,0,1,sweets,Veg,376,1,Bowl,1,1
-Cereals-Corn Flakes with milk,1,0,0,0,0,dairy products,Veg,384,1,Bowl,1,1
-Celery Soup,0,0,0,1,0,vegetables,Veg,80,1,Bowl,1,1
-pittu,1,0,0,0,0,rice and others,Veg,270,1,unit,1,1
-mix vegetable cury,1,1,1,0,0,vegetables,Veg,153,1,Cup,1,1
-katta sambol,1,1,1,0,0,miscellaneous,Nonveg,15,1,tbsp,1,1
-potato curry,1,1,1,0,0,vegetables,veg,116,0.25,cup,1,0
-egg Hopper,1,0,1,0,0,rice and others,veg,515,1,unit,1,0
-beetroot curry,1,1,1,0,0,vegetables,veg,32,0.25,Cup,1,0
-sri Lankan roti,1,0,1,0,0,rice and others,veg,407,2,Piece,1,0
-fish bun,0,0,0,1,0,snack,Nonveg,221,1,Unit,1,0
-chicken curry,1,1,1,0,0,meat,Nonveg,121,0.5,Cup,1,1
-halapa,1,0,1,1,0,rice and others,veg,197,1,Unit,1,0
-lamprais,0,1,1,0,0,rice and others,Nonveg,379,1,unit,1,0
-kola mallum,1,1,1,0,0,vegetables,veg,32,1,tbsp,1,1
-buffalo curd,0,0,0,1,1,dairy products,veg,88,1.5,cup,1,0
-beef cury,1,1,1,0,0,meat,Nonveg,345,0.5,Cup,1,0
-tinned fish cury,1,1,1,0,0,seafood,Nonveg,132,0.25,cup,1,0
-chicken kottu,1,1,1,0,0,rice and others,Nonveg,128,0.5,cup,1,0
-chicken soup,0,0,1,0,0,vegetables,Nonveg,190,1,Cup,1,1
-goat curry,1,1,1,0,0,meat,Nonveg,115,0.5,Cup,1,0
-fish patties,0,0,0,1,0,snack,Nonveg,150,1,Unit,1,0
-vegetable roti,0,0,0,1,0,snack,Veg,380,1,Unit,1,0
-polos curry,1,1,1,0,0,vegetables,veg,92,0.5,Cup,1,1
-seeni sambol bun,0,0,0,1,0,snack,veg,215,1,unit,1,0
-hoppers,1,0,1,0,0,rice and others,Veg,369,2,Piece,1,0
-long beans cury,1,1,1,0,0,vegetables,Veg,267,0.25,cup,1,1
-potato fry,1,1,1,0,0,vegetables,Veg,112,0.5,cup,1,0
-omelete,1,1,1,1,0,miscellaneous,Veg,69,1,Unit,1,1
-murunga curry,1,1,1,0,0,vegetables,Veg,116,0.5,cup,1,1
-wandu appa,1,0,1,1,0,rice and others,Veg,191,1,Piece,1,0
-dhal curry,1,1,1,0,0,vegetables,Veg,385,0.5,Cup,1,1
-shrimp curry,1,1,1,0,0,seafood,Nonveg,456,1,Cup,1,1
-crab curry,1,1,1,0,0,seafood,Nonveg,573,1,Cup,1,1
-mango curry,1,1,1,0,0,vegetables,Veg,40,0.125,Cup,1,1
-fish cutlet,0,1,1,1,0,miscellaneous,Nonveg,97,1,Piece,1,1
-sambar,0,0,1,0,0,vegetables,Veg,309,1,Cup,1,1
-fish curry,1,1,1,0,0,seafood,Nonveg,540,1,Cup,1,1
-pol roti,1,0,1,1,0,rice and others,Veg,190,1,Piece,1,0
-tofu curry,1,1,1,0,0,vegetables,Nonveg,260,0.25,Cup,1,1
-pork black curry,0,1,1,0,0,meat,Nonveg,231,0.5,Cup,1,0
+Food_items,Breakfast,Lunch,Dinner,Snack,type,Veg/NonVeg,Calories,Servings,Piece/Plate/Bowl/Fist/cup/unit,PreDiabetic,Diabetic,HBP,LBP,HypoThy,HyperThy
+Chapati,0,1,1,0,1,Veg,104,2,Piece,1,0,1,1,1,0
+Ragi Roti,0,1,1,0,1,Veg,94,2,Piece,1,1,1,1,0,1
+Corn Roti,0,1,1,0,1,Veg,70,2,Piece,1,1,1,1,0,1
+Paratha,0,1,1,0,1,Veg,126,1,Piece,1,0,1,1,1,0
+Naan,0,1,1,0,1,Veg,136,1,Piece,1,0,1,1,1,0
+Pav,1,1,1,0,1,Veg,250,1,Piece,0,0,1,0,0,0
+Bread,1,1,1,1,1,Veg,67,2,Piece,0,0,0,0,0,0
+Wholegrain Bread,1,1,1,1,1,Veg,92,2,Piece,1,1,1,0,1,1
+Dosa,1,1,1,0,1,Veg,133,1,Piece,1,1,1,0,1,1
+Rice,0,1,1,0,1,Veg,200,1,Bowl,0,0,0,1,1,1
+Brown Rice,0,1,1,0,1,Veg,216,1,Bowl,1,1,1,1,1,1
+Noodle,0,1,1,1,1,Veg,190,1,Bowl,0,1,0,1,1,1
+Oats,1,0,0,0,2,Veg,150,1,Bowl,1,0,1,1,1,1
+Brown rice Pulav,0,1,1,0,2,Veg,359,1,Bowl,1,1,1,1,1,1
+Sandwich,1,0,0,1,2,Veg,266,1,Piece,1,1,0,1,0,0
+Samosa,1,0,0,1,2,Veg,262,1,Piece,1,0,1,0,1,1
+Idli,1,0,0,1,2,Veg,39,2,Piece,1,1,1,1,1,1
+Vada,1,0,0,1,2,Veg,97,2,Piece,1,0,1,1,1,1
+Onion Bhajiya,1,0,0,1,2,Veg,175,2,Piece,1,0,1,1,1,1
+Poha,1,0,0,0,2,Veg,180,1,Plate,1,1,1,1,1,1
+Uttapam,1,1,1,0,2,Veg,92,1,Piece,1,1,1,1,1,1
+Aloo Paratha,0,1,1,0,2,Veg,177,1,Piece,0,0,1,1,1,1
+Okra Sabzi,0,1,1,0,0,Veg,60,1,Bowl,1,1,1,1,1,1
+Potato Sabzi,0,1,1,0,0,Veg,150,1,Bowl,1,0,1,0,1,1
+Dahi bhindi,0,1,1,0,0,Veg,120,1,Bowl,1,1,1,1,1,1
+Pumpkin Sabzi,0,1,1,0,0,Veg,93,1,Bowl,1,0,1,1,1,0
+Bottle Gourd Sabzi,0,1,1,0,0,Veg,250,1,Bowl,1,1,1,1,1,1
+Bitter Gourd Sabzi,0,1,1,0,0,Veg,119,1,Bowl,1,1,1,1,1,1
+Beans Sabzi,0,1,1,0,0,Veg,252,1,Bowl,1,1,1,1,1,1
+Cabbage Sabzi,0,1,1,0,0,Veg,71,1,Bowl,1,1,1,0,0,0
+Cawliflower Sabzi,0,1,1,0,0,Veg,225,1,Bowl,1,1,1,1,0,1
+Spinach ,0,1,1,0,0,Veg,46,1,Bowl,1,1,0,0,0,0
+Eggplant Sabzi,0,1,1,0,0,Veg,167,1,Bowl,1,1,1,1,1,1
+Sweet potato,0,1,1,0,0,Veg,86,1,Bowl,1,0,1,1,1,1
+Toro,0,1,1,0,0,Veg,184,1,Bowl,1,1,1,1,1,1
+Mushroom,0,1,1,0,0,Veg,22,1,Bowl,1,1,1,1,1,1
+Peas,0,1,1,0,0,Veg,81,1,Bowl,1,1,1,1,1,1
+Fat-free Paneer,0,1,1,0,0,Veg,256,1,Bowl,1,1,1,1,1,1
+Soya ,1,0,1,0,2,Veg,446,1,Bowl,1,1,1,1,0,1
+Rajma,0,1,1,0,0,Veg,335,1,Bowl,1,1,1,0,1,1
+Chole,0,1,1,0,0,Veg,223,1,Bowl,1,1,1,0,1,1
+Broccoli,1,1,1,0,0,Veg,34,1,Bowl,1,1,1,0,0,1
+Amul Chocolate(Dark) - 40gm,0,0,0,1,2,Veg,60,1,Unit,1,1,1,1,1,1
+Protien Smoothies,1,0,0,1,2,Veg,116,1,Cup,1,1,1,1,1,1
+Banana & Honey smoothie ,0,0,0,1,2,Veg,305,1,Cup,1,0,1,1,1,1
+Milk shakes,1,0,0,1,2,Veg,190,1,Cup,0,0,1,1,1,0
+Skimmed Milk,1,0,0,1,2,Veg,115,1,Cup,1,1,1,1,1,0
+Tea with Skimmed Milk,1,0,0,1,2,Veg,15,1,Cup,0,0,1,1,1,0
+Coffee with Skimmed Milk,1,0,0,1,2,Veg,25,1,Cup,0,0,1,1,1,0
+Tea without sugar/milk,1,0,0,1,2,Veg,2.4,1,Cup,1,1,1,1,1,1
+Coffee without sugar/milk,1,0,0,1,2,Veg,5,1,Cup,1,1,1,1,0,0
+Green Tea,1,0,0,0,2,Veg,2.5,1,Cup,1,1,1,1,0,1
+Butter Milk,0,0,1,0,2,Veg,40,1,Cup,1,1,1,1,0,0
+Lemonade,1,0,0,0,2,Veg,40,1,Cup,1,0,1,1,1,1
+Tomato soup,0,1,1,1,2,Veg,30,1,Cup,1,0,1,1,1,1
+Yoghurt/Curd,0,1,0,0,2,Veg,96,1,Bowl,1,1,1,1,0,0
+"Mixed Nuts (almonds, walnuts)",1,0,0,1,2,Veg,520,1,Fist,1,1,1,1,1,1
+Cinnamon/Flakseed,1,0,0,1,1,Veg,100,1,Fist,1,1,1,1,1,1
+Spinach ,0,1,1,0,0,Veg,78,1,Bowl,1,1,1,1,1,1
+Raddish,1,1,1,0,0,Veg,16,1,Bowl,1,1,1,1,1,1
+Methi,1,1,0,0,0,Veg,323,1,Bowl,1,1,1,1,1,1
+Apple,1,0,0,1,0,Veg,95,1,Unit,1,1,1,1,1,1
+Pear,1,0,0,1,0,Veg,101,1,Unit,1,1,1,1,0,1
+Pomogranate,1,0,0,1,2,Veg,57,1,Unit,1,1,1,1,1,1
+Orange,1,0,0,1,0,Veg,47,1,Unit,1,1,1,1,1,1
+Kiwi,1,0,0,1,2,Veg,45,1,Unit,1,0,1,1,1,1
+Watermelon,1,0,0,1,2,Veg,30,6,Piece,1,1,1,1,1,1
+Papaya,1,0,0,1,0,Veg,215,6,Piece,1,1,1,1,1,1
+Banana,1,0,0,1,0,Veg,111,1,Unit,0,0,1,1,1,1
+Boiled Corn,1,1,1,1,2,Veg,100,1,Bowl,1,1,0,1,1,1
+Guava,1,0,0,1,0,Veg,37,1,Unit,1,0,1,1,1,1
+Roasted chana,1,0,0,1,2,Veg,46,1,Fist,1,1,1,1,1,1
+Wholegrain  cereals,1,0,0,0,2,Veg,256,1,Fist,1,1,1,1,1,1
+Boiled Egg,1,1,1,1,2,Non,71,1,Piece,1,0,1,1,1,0
+Egg Whites,1,1,1,1,2,Non,16,2,Piece,0,1,1,1,1,1
+Scrammbled Egg,1,1,1,0,1,Non,148,2,Piece,1,0,1,1,1,0
+Roasted Salmon Fish,0,0,1,0,1,Non,367,2,Piece,1,1,1,1,1,0
+Roasted Sardine Fish,0,0,1,0,1,Non,310,2,Piece,1,1,1,1,0,0
+Roasted Mackerel Fish,0,0,1,0,1,Non,231,2,Piece,1,1,1,1,0,0
+Roasted Tuna Fish,0,0,1,0,1,Non,240,2,Piece,1,1,1,1,0,0
+Chicken Soup,0,0,1,0,2,Non,70,1,Bowl,1,1,1,1,1,1
+Grilled Chicken,0,0,1,0,2,Non,226,2,Piece,1,1,1,1,1,1
+Roasted Chicken,0,0,1,0,2,Non,239,2,Piece,1,1,1,1,1,1
+Baked Chicken,0,0,1,0,2,Non,230,2,Piece,1,1,1,1,1,1
+Fried Chicken,0,0,1,0,2,Non,340,1,Piece,1,0,1,0,1,1
+Chicken Shawarma,0,1,1,0,2,Non,430,1,Unit,1,0,1,0,1,1
+Red Meat,0,1,1,0,2,Non,486,2,Piece,1,1,0,0,1,1
+Pav Bhaji,0,1,1,0,2,Veg,160,1,Unit,0,0,1,1,0,1
+Puri,0,1,1,0,2,Veg,270,5,Piece,1,0,1,0,1,0
+Fried Rice,0,1,1,0,2,Veg,320,1,Plate,0,0,1,1,1,1
+MIsal Pav,0,1,1,0,2,Veg,298,1,Plate,0,0,1,1,0,0
+Pizza,0,1,1,0,2,Veg,200,1,Unit,1,0,1,0,0,1
+Gulab Jamun,0,0,0,1,2,Veg,143,1,Piece,0,0,1,1,1,1
+Lentils,0,1,1,0,1,Veg,116,1,Bowl,1,1,1,1,1,1
+Low Fat Peanut butter Sandwich,1,0,0,1,2,Veg,125,1,Unit,1,1,0,1,1,0
+Low Fat Cheese Sandwitch,1,0,0,1,2,Veg,190,1,Unit,1,1,1,1,1,0
+Rice pudding,0,0,0,0,2,Veg,376,1,Bowl,0,1,1,1,1,0
+Chocolate Icecream,0,0,0,1,2,Veg,216,1,Cup,0,0,1,1,1,0
+Vanilla Ice cream,0,0,0,1,2,Veg,207,1,Cup,0,0,1,1,1,0
+Strawberry Icecream,0,0,0,1,2,Veg,192,1,Cup,0,0,1,0,1,1
+Cereals-Corn Flakes,1,0,0,0,2,Veg,384,1,Bowl,1,1,1,1,1,1
+Celery Soup,0,0,0,1,2,Veg,80,1,Bowl,1,1,1,1,1,1
