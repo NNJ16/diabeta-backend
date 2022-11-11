@@ -219,7 +219,7 @@ def exercise_recommendation():
     df["clean_input"] = df[['life_cat', 'Activity-level', 'PreDiabetic', 'Diabetic']].apply(" ".join, axis=1)
     df["clean_input"]
 
-    df = df[['Exercise', 'clean_input']]
+    df = df[['Exercise', 'clean_input','Time-in-sec']]
     df.reset_index(inplace=True)
     
     tfidf = TfidfVectorizer()
@@ -248,7 +248,7 @@ def exercise_recommendation():
     
     
         for i in data:
-            exercises.append(df['Exercise'][i])
+            exercises.append(df['Exercise'][i] +" "+ str(int(df['Time-in-sec'][i])/60)+ " minutes")
         
         # initialize a null list
         unique_list = []
