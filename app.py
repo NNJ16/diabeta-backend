@@ -248,7 +248,7 @@ def exercise_recommendation():
     
     
         for i in data:
-            exercises.append(df['Exercise'][i] +"? "+ str(int(df['Time-in-sec'][i])/60)+ " minutes")
+            exercises.append(df['Exercise'][i] +"? "+ str(int(int(df['Time-in-sec'][i])/60))+ " minutes")
         
         # initialize a null list
         unique_list = []
