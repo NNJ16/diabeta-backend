@@ -171,7 +171,7 @@ def food_recommendation():
     
     
         for i in data:
-            foodList.append(df['Food_items'][i] +" "+ str(int(df['Servings'][i]))+ " "+df['Portion'][i])
+            foodList.append(df['Food_items'][i] +" "+ str(int(df['Servings'][i]))+ ", "+df['Portion'][i])
         
         # initialize a null list
         unique_list = []
@@ -248,7 +248,7 @@ def exercise_recommendation():
     
     
         for i in data:
-            exercises.append(df['Exercise'][i] +" "+ str(int(df['Time-in-sec'][i])/60)+ " minutes")
+            exercises.append(df['Exercise'][i] +", "+ str(int(df['Time-in-sec'][i])/60)+ " minutes")
         
         # initialize a null list
         unique_list = []
