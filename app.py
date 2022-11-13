@@ -171,7 +171,7 @@ def food_recommendation():
     
     
         for i in data:
-            foodList.append(df['Food_items'][i] +" "+ str(int(df['Servings'][i]))+ ", "+df['Portion'][i])
+            foodList.append(df['Food_items'][i] +", "+ str(int(df['Servings'][i]))+ " "+df['Portion'][i])
         
         # initialize a null list
         unique_list = []
