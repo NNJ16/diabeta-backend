@@ -118,3 +118,12 @@ vegetable rice,0,1,0,0,0,rice and others,Veg,259,1,Cup,1,1
 mix rice,0,1,0,0,0,rice and others,Nonveg,264,1,Cup,1,1
 prawn rice,0,0,1,0,0,rice and others,Nonveg,236,1,Cup,1,1
 vegetable soup,0,0,1,0,0,vegetables,Veg,210,1,Bowl,1,1
+boiled chickpeas,1,0,0,0,0,cereals,Veg,350,1,Cup,1,1
+string hoppers,1,0,0,0,0,rice and others,Veg,260,10,Piece,1,1
+rice porridge,1,0,0,0,0,rice and others,Veg,231,1,Bowl,1,1
+barley soup,1,0,0,0,0,rice and others,Veg,256,1,Bowl,1,1
+fresh milk,1,0,0,0,0,dairy products,Veg,239,1,Glass,1,1
+goat milk,1,0,0,0,0,dairy products,Veg,267,1,Glass,1,1
+curd without sugar,0,1,0,0,0,dairy products,Veg,287,1,Cup,1,1
+milk porridge,0,1,0,0,0,dairy products,Veg,258,1,Bowl,1,1
+boiled mix vegetables,0,1,0,0,0,vegetables,Veg,345,1,Cup,1,1
