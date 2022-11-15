@@ -1,60 +1,60 @@
 Exercise,Lifestyle,Category,Activity-level,Age_start,Age_end,Time-in-sec,Reps,Set,PreDiabetic,Diabetic,HBP,LBP,LThy,HThy
-OutDoor Walking,yoga,Cardio,Sedentary,18,35,3600,,1,1,1,1,1,1,1
-OutDoor Walking,yoga,Cardio,Sedentary,36,49,3600,,1,1,1,1,1,1,1
-OutDoor Walking,yoga,Cardio,Sedentary,50,80,3600,,1,1,1,1,1,1,1
-OutDoor Walking,yoga,Cardio,Light Exercise,18,35,3600,,1,1,1,1,1,1,1
-OutDoor Walking,yoga,Cardio,Light Exercise,36,49,3600,,1,1,1,1,1,1,1
-OutDoor Walking,yoga,Cardio,Light Exercise,50,80,3600,,1,1,1,1,1,1,1
-OutDoor Walking,yoga,Cardio,Moderate Exercise,18,35,3600,,1,1,1,1,1,1,1
-OutDoor Walking,yoga,Cardio,Moderate Exercise,36,49,3600,,1,1,1,1,1,1,1
-OutDoor Walking,yoga,Cardio,Moderate Exercise,50,80,3600,,1,1,1,1,1,1,1
-Jogging,yoga,Cardio,Moderate Exercise,18,35,3600,,1,1,0,0,1,1,1
-Jogging,yoga,Cardio,Moderate Exercise,36,49,3600,,1,1,0,0,1,1,1
-Jogging,yoga,Cardio,very active,18,35,3600,,1,1,0,0,1,1,1
-Jogging,yoga,Cardio,very active,36,49,3600,,1,1,0,0,1,1,1
-Jogging,yoga,Cardio,extreme,18,35,3600,,1,1,0,0,1,1,1
-Jogging,yoga,Cardio,extreme,36,49,3600,,1,1,0,0,1,1,1
-Cycling,yoga,Cardio,Moderate Exercise,18,35,1800,,1,1,0,0,1,1,1
-Cycling,yoga,Cardio,Moderate Exercise,36,49,1800,,1,1,0,0,1,1,1
-Cycling,yoga,Cardio,very active,18,35,1800,,1,1,0,0,1,1,1
-Cycling,yoga,Cardio,very active,36,49,1800,,1,1,0,0,1,1,1
-Cycling,yoga,Cardio,extreme,18,35,1800,,1,1,0,0,1,1,1
-Cycling,yoga,Cardio,extreme,36,49,1800,,1,1,0,0,1,1,1
-OutDoor Walking,gym,Cardio,Sedentary,18,35,3600,,1,1,1,1,1,1,1
-OutDoor Walking,gym,Cardio,Sedentary,36,49,3600,,1,1,1,1,1,1,1
-OutDoor Walking,gym,Cardio,Sedentary,50,80,3600,,1,1,1,1,1,1,1
-OutDoor Walking,gym,Cardio,Light Exercise,18,35,3600,,1,1,1,1,1,1,1
-OutDoor Walking,gym,Cardio,Light Exercise,36,49,3600,,1,1,1,1,1,1,1
-OutDoor Walking,gym,Cardio,Light Exercise,50,80,3600,,1,1,1,1,1,1,1
-OutDoor Walking,gym,Cardio,Moderate Exercise,18,35,3600,,1,1,1,1,1,1,1
-OutDoor Walking,gym,Cardio,Moderate Exercise,36,49,3600,,1,1,1,1,1,1,1
-OutDoor Walking,gym,Cardio,Moderate Exercise,50,80,3600,,1,1,1,1,1,1,1
-Jogging,gym,Cardio,Moderate Exercise,18,35,3600,,1,1,0,0,1,1,1
-Jogging,gym,Cardio,Moderate Exercise,36,49,3600,,1,1,0,0,1,1,1
-Jogging,gym,Cardio,very active,18,35,3600,,1,1,0,0,1,1,1
-Jogging,gym,Cardio,very active,36,49,3600,,1,1,0,0,1,1,1
-Jogging,gym,Cardio,extreme,18,35,3600,,1,1,0,0,1,1,1
-Jogging,gym,Cardio,extreme,36,49,3600,,1,1,0,0,1,1,1
-Cycling,gym,Cardio,Moderate Exercise,18,35,1800,,1,1,0,0,1,1,1
-Cycling,gym,Cardio,Moderate Exercise,36,49,1800,,1,1,0,0,1,1,1
-Cycling,gym,Cardio,very active,18,35,1800,,1,1,0,0,1,1,1
-Cycling,gym,Cardio,very active,36,49,1800,,1,1,0,0,1,1,1
-Cycling,gym,Cardio,extreme,18,35,1800,,1,1,0,0,1,1,1
-Cycling,gym,Cardio,extreme,36,49,1800,,1,1,0,0,1,1,1
-Treadmill,gym,Cardio,Sedentary,18,35,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,Sedentary,36,49,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,Sedentary,50,80,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,Light Exercise,18,35,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,Light Exercise,36,49,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,Light Exercise,50,80,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,Moderate Exercise,18,35,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,Moderate Exercise,36,49,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,Moderate Exercise,50,80,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,very active,18,35,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,very active,36,49,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,very active,50,80,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,extreme,18,35,1800,,1,1,1,1,1,1,1
-Treadmill,gym,Cardio,extreme,36,49,1800,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Sedentary,18,35,1800,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Sedentary,36,49,1800,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Sedentary,50,80,1800,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Light Exercise,18,35,1800,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Light Exercise,36,49,1800,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Light Exercise,50,80,1800,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Moderate Exercise,18,35,1800,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Moderate Exercise,36,49,1800,,1,1,1,1,1,1,1
+OutDoor Walking,yoga,Cardio,Moderate Exercise,50,80,1800,,1,1,1,1,1,1,1
+Jogging,yoga,Cardio,Moderate Exercise,18,35,1800,,1,1,0,0,1,1,1
+Jogging,yoga,Cardio,Moderate Exercise,36,49,1800,,1,1,0,0,1,1,1
+Jogging,yoga,Cardio,very active,18,35,1800,,1,1,0,0,1,1,1
+Jogging,yoga,Cardio,very active,36,49,1800,,1,1,0,0,1,1,1
+Jogging,yoga,Cardio,extreme,18,35,1800,,1,1,0,0,1,1,1
+Jogging,yoga,Cardio,extreme,36,49,1800,,1,1,0,0,1,1,1
+Cycling,yoga,Cardio,Moderate Exercise,18,35,1200,,1,1,0,0,1,1,1
+Cycling,yoga,Cardio,Moderate Exercise,36,49,1200,,1,1,0,0,1,1,1
+Cycling,yoga,Cardio,very active,18,35,1200,,1,1,0,0,1,1,1
+Cycling,yoga,Cardio,very active,36,49,1200,,1,1,0,0,1,1,1
+Cycling,yoga,Cardio,extreme,18,35,1200,,1,1,0,0,1,1,1
+Cycling,yoga,Cardio,extreme,36,49,1200,,1,1,0,0,1,1,1
+OutDoor Walking,gym,Cardio,Sedentary,18,35,1800,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Sedentary,36,49,1800,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Sedentary,50,80,1800,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Light Exercise,18,35,1800,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Light Exercise,36,49,1800,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Light Exercise,50,80,1800,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Moderate Exercise,18,35,1800,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Moderate Exercise,36,49,1800,,1,1,1,1,1,1,1
+OutDoor Walking,gym,Cardio,Moderate Exercise,50,80,1800,,1,1,1,1,1,1,1
+Jogging,gym,Cardio,Moderate Exercise,18,35,1800,,1,1,0,0,1,1,1
+Jogging,gym,Cardio,Moderate Exercise,36,49,1800,,1,1,0,0,1,1,1
+Jogging,gym,Cardio,very active,18,35,1800,,1,1,0,0,1,1,1
+Jogging,gym,Cardio,very active,36,49,1800,,1,1,0,0,1,1,1
+Jogging,gym,Cardio,extreme,18,35,1800,,1,1,0,0,1,1,1
+Jogging,gym,Cardio,extreme,36,49,1800,,1,1,0,0,1,1,1
+Cycling,gym,Cardio,Moderate Exercise,18,35,1200,,1,1,0,0,1,1,1
+Cycling,gym,Cardio,Moderate Exercise,36,49,1200,,1,1,0,0,1,1,1
+Cycling,gym,Cardio,very active,18,35,1200,,1,1,0,0,1,1,1
+Cycling,gym,Cardio,very active,36,49,1200,,1,1,0,0,1,1,1
+Cycling,gym,Cardio,extreme,18,35,1200,,1,1,0,0,1,1,1
+Cycling,gym,Cardio,extreme,36,49,1200,,1,1,0,0,1,1,1
+Treadmill,gym,Cardio,Sedentary,18,35,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Sedentary,36,49,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Sedentary,50,80,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Light Exercise,18,35,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Light Exercise,36,49,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Light Exercise,50,80,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Moderate Exercise,18,35,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Moderate Exercise,36,49,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,Moderate Exercise,50,80,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,very active,18,35,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,very active,36,49,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,very active,50,80,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,extreme,18,35,1200,,1,1,1,1,1,1,1
+Treadmill,gym,Cardio,extreme,36,49,1200,,1,1,1,1,1,1,1
 Jumping Ropes,gym,Cardio,Moderate Exercise,18,35,1200,50,2,1,0,0,1,1,1
 Jumping Ropes,gym,Cardio,Moderate Exercise,36,49,1200,50,2,1,0,0,1,1,1
 Jumping Ropes,gym,Cardio,very active,18,35,1200,50,2,1,0,0,1,1,1
@@ -68,10 +68,10 @@ Jumping Jacks,gym,Cardio,Moderate Exercise,36,49,1200,15,3,1,1,1,1,1,1
 Jumping Jacks,gym,Cardio,very active,18,35,1200,15,3,1,1,1,1,1,1
 Jumping Jacks,gym,Cardio,very active,36,49,1200,15,3,1,1,1,1,1,1
 Jumping Jacks,gym,Cardio,extreme,18,35,1200,15,3,1,1,1,1,1,1
-Burpies,gym,Cardio,very active,18,35,1800,0,5,1,0,0,1,1,1
-Burpies,gym,Cardio,very active,36,49,1800,0,5,1,0,0,1,1,1
-Burpies,gym,Cardio,extreme,18,35,1800,0,5,1,0,0,1,1,1
-Burpies,gym,Cardio,extreme,36,49,1800,0,5,1,0,0,1,1,1
+Burpies,gym,Cardio,very active,18,35,1200,0,5,1,0,0,1,1,1
+Burpies,gym,Cardio,very active,36,49,1200,0,5,1,0,0,1,1,1
+Burpies,gym,Cardio,extreme,18,35,1200,0,5,1,0,0,1,1,1
+Burpies,gym,Cardio,extreme,36,49,1200,0,5,1,0,0,1,1,1
 Skaters,gym,Cardio,Sedentary,18,35,1200,12,3,1,1,1,1,1,1
 Skaters,gym,Cardio,Sedentary,36,49,1200,12,3,1,1,1,1,1,1
 Skaters,gym,Cardio,Sedentary,50,80,1200,12,3,1,1,1,1,1,1
